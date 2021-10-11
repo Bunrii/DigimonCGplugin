@@ -1,0 +1,32 @@
+Name	Set	ImageFile	Category	Level	Color	PlayCost	DigivolutionCost	DP	Attribute	Type
+Koromon/ST1-01	ST1	ST1-01.png	Digi-Egg	2	Red	-	-	-	-	Lesser
+Biyomon/ST1-02	ST1	ST1-02.png	Digimon	3	Red	2	0	3000	Vaccine	Bird
+Biyomon/ST1-02	ST1	ST1-02_P1.png	Digimon	3	Red	2	0	3000	Vaccine	Bird
+Biyomon/ST1-02	ST1	ST1-02_P2.png	Digimon	3	Red	2	0	3000	Vaccine	Bird
+Agumon/ST1-03	ST1	ST1-03.png	Digimon	3	Red	3	0	2000	Vaccine	Reptile
+Agumon/ST1-03	ST1	ST1-03_P1.png	Digimon	3	Red	3	0	2000	Vaccine	Reptile
+Agumon/ST1-03	ST1	ST1-03_P2.png	Digimon	3	Red	3	0	2000	Vaccine	Reptile
+Agumon/ST1-03	ST1	ST1-03_P3.png	Digimon	3	Red	3	0	2000	Vaccine	Reptile
+Agumon/ST1-03	ST1	ST1-03_P4.png	Digimon	3	Red	3	0	2000	Vaccine	Reptile
+Dracomon/ST1-04	ST1	ST1-04.png	Digimon	3	Red	3	0	4000	Data	Dragon
+Birdramon/ST1-05	ST1	ST1-05.png	Digimon	4	Red	4	2	5000	Vaccine	Giant Bird
+Coredramon/ST1-06	ST1	ST1-06.png	Digimon	4	Red	5	2	6000	Virus	Dragon
+Coredramon/ST1-06	ST1	ST1-06_P1.png	Digimon	4	Red	5	2	6000	Virus	Dragon
+Greymon/ST1-07	ST1	ST1-07.png	Digimon	4	Red	5	2	4000	Vaccine	Dinosaur
+Greymon/ST1-07	ST1	ST1-07_P1.png	Digimon	4	Red	5	2	4000	Vaccine	Dinosaur
+Garudamon/ST1-08	ST1	ST1-08.png	Digimon	5	Red	6	3	7000	Vaccine	Birdkin
+Garudamon/ST1-08	ST1	ST1-08_P1.png	Digimon	5	Red	6	3	7000	Vaccine	Birdkin
+MetalGreymon/ST1-09	ST1	ST1-09.png	Digimon	5	Red	7	3	7000	Vaccine	Cyborg
+MetalGreymon/ST1-09	ST1	ST1-09_P1.png	Digimon	5	Red	7	3	7000	Vaccine	Cyborg
+MetalGreymon/ST1-09	ST1	ST1-09_P2.png	Digimon	5	Red	7	3	7000	Vaccine	Cyborg
+Phoenixmon/ST1-10	ST1	ST1-10.png	Digimon	6	Red	10	2	12000	Vaccine	Holy Beast
+WarGreymon/ST1-11	ST1	ST1-11.png	Digimon	6	Red	12	4	12000	Vaccine	Dragonkin
+WarGreymon/ST1-11	ST1	ST1-11_P1.png	Digimon	6	Red	12	4	12000	Vaccine	Dragonkin
+WarGreymon/ST1-11	ST1	ST1-11_P2.png	Digimon	6	Red	12	4	12000	Vaccine	Dragonkin
+Tai Kamiya/ST1-12	ST1	ST1-12.png	Tamer	-	Red	2	-	-	Vaccine	-
+Shadow Wing/ST1-13	ST1	ST1-13.png	Option	-	Red	1	-	-	-	-
+Shadow Wing/ST1-13	ST1	ST1-13_P1.png	Option	-	Red	1	-	-	-	-
+Starlight Explosion/ST1-14	ST1	ST1-14.png	Option	-	Red	2	-	-	-	-
+Giga Destroyer/ST1-15	ST1	ST1-15.png	Option	-	Red	6	-	-	-	-
+Gaia Force/ST1-16	ST1	ST1-16.png	Option	-	Red	8	-	-	-	-
+Gaia Force/ST1-16	ST1	ST1-16_P1.png	Option	-	Red	8	-	-	-	-

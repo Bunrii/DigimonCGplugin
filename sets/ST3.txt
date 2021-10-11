@@ -1,0 +1,28 @@
+Name	Set	ImageFile	Category	Level	Color	PlayCost	DigivolutionCost	DP	Attribute	Type
+Tokomon/ST3-01	ST3	ST3-01.png	Digi-Egg	2	Yellow	-	-	-	-	Lesser
+Salamon/ST3-02	ST3	ST3-02.png	Digimon	3	Yellow	2	0	3000	Vaccine	Mammal
+Salamon/ST3-02	ST3	ST3-02_P1.png	Digimon	3	Yellow	2	0	3000	Vaccine	Mammal
+Tapirmon/ST3-03	ST3	ST3-03.png	Digimon	3	Yellow	3	0	4000	Vaccine	Holy Beast
+Patamon/ST3-04	ST3	ST3-04.png	Digimon	3	Yellow	3	0	1000	Data	Mammal
+Patamon/ST3-04	ST3	ST3-04_P1.png	Digimon	3	Yellow	3	0	1000	Data	Mammal
+Patamon/ST3-04	ST3	ST3-04_P2.png	Digimon	3	Yellow	3	0	1000	Data	Mammal
+Angemon/ST3-05	ST3	ST3-05.png	Digimon	4	Yellow	5	2	4000	Vaccine	Angel
+Angemon/ST3-05	ST3	ST3-05_P1.png	Digimon	4	Yellow	5	2	4000	Vaccine	Angel
+Angemon/ST3-05	ST3	ST3-05_P2.png	Digimon	4	Yellow	5	2	4000	Vaccine	Angel
+Gatomon/ST3-06	ST3	ST3-06.png	Digimon	4	Yellow	4	2	5000	Vaccine	Holy Beast
+Unimon/ST3-07	ST3	ST3-07.png	Digimon	4	Yellow	5	2	6000	Vaccine	Mythical Beast
+Unimon/ST3-07	ST3	ST3-07_P1.png	Digimon	4	Yellow	5	2	6000	Vaccine	Mythical Beast
+MagnaAngemon/ST3-08	ST3	ST3-08.png	Digimon	5	Yellow	7	3	7000	Vaccine	Archangel
+MagnaAngemon/ST3-08	ST3	ST3-08_P1.png	Digimon	5	Yellow	7	3	7000	Vaccine	Archangel
+MagnaAngemon/ST3-08	ST3	ST3-08_P2.png	Digimon	5	Yellow	7	3	7000	Vaccine	Archangel
+Angewomon/ST3-09	ST3	ST3-09.png	Digimon	5	Yellow	6	3	7000	Vaccine	Archangel
+Angewomon/ST3-09	ST3	ST3-09_P1.png	Digimon	5	Yellow	6	3	7000	Vaccine	Archangel
+Magnadramon/ST3-10	ST3	ST3-10.png	Digimon	6	Yellow	10	2	12000	Vaccine	Holy Dragon/Four Great Dragons
+Seraphimon/ST3-11	ST3	ST3-11.png	Digimon	6	Yellow	12	4	10000	Vaccine	Seraph/Three Great Angels
+T.K. Takaishi/ST3-12	ST3	ST3-12.png	Tamer	-	Yellow	2	-	-	-	-
+Heaven's Gate/ST3-13	ST3	ST3-13.png	Option	-	Yellow	1	-	-	-	-
+Heaven's Gate/ST3-13	ST3	ST3-13_P1.png	Option	-	Yellow	1	-	-	-	-
+Heaven's Charm/ST3-14	ST3	ST3-14.png	Option	-	Yellow	2	-	-	-	-
+Heaven's Charm/ST3-14	ST3	ST3-14_P1.png	Option	-	Yellow	2	-	-	-	-
+Holy Flame/ST3-15	ST3	ST3-15.png	Option	-	Yellow	2	-	-	-	-
+Seven Heavens/ST3-16	ST3	ST3-16.png	Option	-	Yellow	7	-	-	-	-

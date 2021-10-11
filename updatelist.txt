@@ -1,0 +1,4 @@
+DigimonCGplugin 10-11-21
+
+CardGeneralURLs:
+https://github.com/Bunrii/DigimonCGplugin

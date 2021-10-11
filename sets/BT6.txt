@@ -1,0 +1,148 @@
+Name	Set	ImageFile	Category	Level	Color	PlayCost	DigivolutionCost	DP	Attribute	Type
+DemiMeramon/BT6-001	BT6	BT6-001.png	Digi-Egg	2	Red	-	-	-	-	Flame
+DemiMeramon/BT6-001	BT6	BT6-001_P1.png	Digi-Egg	2	Red	-	-	-	-	Flame
+Kyaromon/BT6-002	BT6	BT6-002.png	Digi-Egg	2	Blue	-	-	-	-	Lesser
+Kyaromon/BT6-002	BT6	BT6-002_P1.png	Digi-Egg	2	Blue	-	-	-	-	Lesser
+Bibimon/BT6-003	BT6	BT6-003.png	Digi-Egg	2	Yellow	-	-	-	-	Lesser
+Bibimon/BT6-003	BT6	BT6-003_P1.png	Digi-Egg	2	Yellow	-	-	-	-	Lesser
+Pinamon/BT6-004	BT6	BT6-004.png	Digi-Egg	2	Green	-	-	-	-	Bird
+Pinamon/BT6-004	BT6	BT6-004_P1.png	Digi-Egg	2	Green	-	-	-	-	Bird
+Pagumon/BT6-005	BT6	BT6-005.png	Digi-Egg	2	Black	-	-	-	-	Lesser
+Pagumon/BT6-005	BT6	BT6-005_P1.png	Digi-Egg	2	Black	-	-	-	-	Lesser
+Tsunomon/BT6-006	BT6	BT6-006.png	Digi-Egg	2	Purple	-	-	-	-	Lesser
+Tsunomon/BT6-006	BT6	BT6-006_P1.png	Digi-Egg	2	Purple	-	-	-	-	Lesser
+Upamon/BT1-003	BT1	BT1-003_P1.png	Digi-Egg	2	Blue	-	-	-	-	Amphibian
+Agumon/BT6-007	BT6	BT6-007.png	Digimon	3	Red	3	0	2000	Vaccine	Reptile
+Agumon/BT6-007	BT6	BT6-007_P1.png	Digimon	3	Red	3	0	2000	Vaccine	Reptile
+Shoutmon/BT6-008	BT6	BT6-008.png	Digimon	3	Red	3	0	2000	Data	Mini Dragon
+Huckmon/BT6-009	BT6	BT6-009.png	Digimon	3	Red	3	0	2000	Data	Mini Dragon
+Flamemon/BT6-010	BT6	BT6-010.png	Digimon	3	Red	4	0	3000	Variable	Wizard
+BaoHuckmon/BT6-011	BT6	BT6-011.png	Digimon	4	Red	5	2	6000	Data	Dinosaur
+Deltamon/BT6-012	BT6	BT6-012.png	Digimon	4	Red	5	2	7000	Virus	Composite
+Megadramon/BT6-013	BT6	BT6-013.png	Digimon	5	Red	6	3	7000	Virus	Cyborg
+Asuramon/BT6-014	BT6	BT6-014.png	Digimon	5	Red	7	3	8000	Vaccine	Wizard
+SaviorHuckmon/BT6-015	BT6	BT6-015.png	Digimon	5	Red	7	3	7000	Data	Dragonkin
+Jesmon/BT6-016	BT6	BT6-016_P1.png	Digimon	6	Red	11	3	11000	Data	Holy Warrior/Royal Knight
+Jesmon/BT6-016	BT6	BT6-016.png	Digimon	6	Red	11	3	11000	Data	Holy Warrior/Royal Knight
+MagnaKidmon/BT6-017	BT6	BT6-017.png	Digimon	6	Red	12	4	11000	Virus	Dragonkin/Three Musketeers
+Agumon - Bond of Bravery/BT6-018	BT6	BT6-018.png	Digimon	7	Red	14	3	14000	Unknown	Unknown
+Agumon - Bond of Bravery/BT6-018	BT6	BT6-018_P1.png	Digimon	7	Red	14	3	14000	Unknown	Unknown
+Gabumon/BT6-019	BT6	BT6-019.png	Digimon	3	Blue	3	0	2000	Data	Reptile
+Gabumon/BT6-019	BT6	BT6-019_P1.png	Digimon	3	Blue	3	0	2000	Data	Reptile
+Gizamon/BT6-020	BT6	BT6-020.png	Digimon	3	Blue	3	0	2000	Virus	Sea Animal
+ModokiBetamon/BT6-021	BT6	BT6-021.png	Digimon	3	Blue	3	0	2000	Data	Amphibian
+Strabimon/BT6-022	BT6	BT6-022.png	Digimon	3	Blue	4	0	3000	Variable	Beastkin
+Octomon/BT6-023	BT6	BT6-023.png	Digimon	4	Blue	5	2	7000	Virus	Mollusk
+Mojyamon/BT6-024	BT6	BT6-024.png	Digimon	4	Blue	5	2	5000	Vaccine	Elusive Beast
+Panjyamon/BT6-025	BT6	BT6-025.png	Digimon	5	Blue	5	3	6000	Data	Beastkin
+Dragomon/BT6-026	BT6	BT6-026.png	Digimon	5	Blue	6	3	7000	Virus	Aquabeast
+Majiramon/BT6-027	BT6	BT6-027.png	Digimon	5	Blue	7	3	7000	Data	Holy Dragon/Deva
+Pukumon/BT6-028	BT6	BT6-028.png	Digimon	6	Blue	11	3	11000	Virus	Mutant
+Azulongmon/BT6-029	BT6	BT6-029.png	Digimon	6	Blue	13	5	13000	Data	Holy Dragon/Four Great Dragons/Four Sovereigns
+Gabumon - Bond of Friendship/BT6-030	BT6	BT6-030.png	Digimon	7	Blue	14	3	14000	Unknown	Unknown
+Gabumon - Bond of Friendship/BT6-030	BT6	BT6-030_P1.png	Digimon	7	Blue	14	3	14000	Unknown	Unknown
+Tinkermon/BT6-031	BT6	BT6-031.png	Digimon	3	Yellow	3	0	2000	Virus	Fairy
+Tapirmon/BT6-032	BT6	BT6-032.png	Digimon	3	Yellow	3	0	2000	Vaccine	Holy Beast
+Pulsemon/BT6-033	BT6	BT6-033.png	Digimon	3	Yellow	3	0	2000	Vaccine	Beastkin
+Pulsemon/BT6-033	BT6	BT6-033_P1.png	Digimon	3	Yellow	3	0	2000	Vaccine	Beastkin
+Wizardmon/BT6-034	BT6	BT6-034.png	Digimon	4	Yellow	4	2	4000	Data	Wizard
+Baluchimon/BT6-035	BT6	BT6-035.png	Digimon	4	Yellow	4	2	5000	Data	Holy Beast
+Mimicmon/BT6-036	BT6	BT6-036.png	Digimon	4	Yellow	4	2	3000	Virus	Mutant
+Bulkmon/BT6-037	BT6	BT6-037.png	Digimon	4	Yellow	5	2	5000	Vaccine	Dragonkin
+Apemon/BT6-038	BT6	BT6-038.png	Digimon	4	Yellow	6	2	8000	Vaccine	Beastkin
+Mammothmon/BT6-039	BT6	BT6-039.png	Digimon	5	Yellow	5	3	6000	Vaccine	Ancient Animal
+Mistymon/BT6-040	BT6	BT6-040.png	Digimon	5	Yellow	6	3	7000	Virus	Magic Warrior
+Manticoremon/BT6-041	BT6	BT6-041.png	Digimon	5	Yellow	7	3	7000	Virus	Dark Animal
+Babamon/BT6-042	BT6	BT6-042.png	Digimon	6	Yellow	11	3	10000	Vaccine	Ancient
+SkullMammothmon/BT6-043	BT6	BT6-043.png	Digimon	6	Yellow	12	3	11000	Vaccine	Undead
+Dynasmon/BT6-044	BT6	BT6-044.png	Digimon	6	Yellow	12	4	12000	Data	Holy Warrior/Royal Knight
+Dynasmon/BT6-044	BT6	BT6-044_P1.png	Digimon	6	Yellow	12	4	12000	Data	Holy Warrior/Royal Knight
+Bakomon/BT6-045	BT6	BT6-045.png	Digimon	3	Green	3	0	2000	Data	Mutant
+Pomumon/BT6-046	BT6	BT6-046.png	Digimon	3	Green	3	1	5000	Data	Vegetation
+Morphomon/BT6-047	BT6	BT6-047.png	Digimon	3	Green	3	0	1000	Vaccine	Insectoid
+Morphomon/BT6-047	BT6	BT6-047_P1.png	Digimon	3	Green	3	0	1000	Vaccine	Insectoid
+Parasaurmon/BT6-048	BT6	BT6-048.png	Digimon	4	Green	3	2	5000	Virus	Dinosaur
+Arbormon/BT6-049	BT6	BT6-049.png	Digimon	4	Green	5	2	5000	Variable	Cyborg
+Petaldramon/BT6-050	BT6	BT6-050.png	Digimon	4	Green	6	3	7000	Variable	Vegetation
+Toropiamon/BT6-051	BT6	BT6-051.png	Digimon	5	Green	5	3	6000	Virus	Vegetation
+Entmon/BT6-052	BT6	BT6-052.png	Digimon	5	Green	8	3	8000	Virus	Vegetation
+Eldradimon/BT6-053	BT6	BT6-053.png	Digimon	6	Green	12	4	12000	Data	Mutant
+AncientTroymon/BT6-054	BT6	BT6-054.png	Digimon	6	Green	13	5	13000	Data	Ancient Plant/Ten Warriors
+Junkmon/BT6-055	BT6	BT6-055.png	Digimon	3	Black	3	0	2000	Virus	Puppet
+Chikurimon/BT6-056	BT6	BT6-056.png	Digimon	3	Black	3	0	1000	Virus	Mine
+ToyAgumon/BT6-057	BT6	BT6-057.png	Digimon	3	Black	3	0	2000	Virus	Puppet
+Nanimon/BT6-058	BT6	BT6-058.png	Digimon	4	Black	3	2	2000	Virus	Invader
+Machmon/BT6-059	BT6	BT6-059.png	Digimon	4	Black	4	2	5000	Vaccine	Cyborg
+Deputymon/BT6-060	BT6	BT6-060.png	Digimon	4	Black	5	2	4000	Vaccine	Mutant
+Gigadramon/BT6-061	BT6	BT6-061.png	Digimon	5	Black	6	3	7000	Virus	Cyborg
+Volcanomon/BT6-062	BT6	BT6-062.png	Digimon	5	Black	6	3	7000	Data	Cyborg
+BigMamemon/BT6-063	BT6	BT6-063.png	Digimon	5	Black	7	3	10000	Data	Mutant
+Mamemon/BT6-064	BT6	BT6-064.png	Digimon	5	Black	7	3	6000	Data	Mutant
+Mamemon/BT6-064	BT6	BT6-064_P1.png	Digimon	5	Black	7	3	6000	Data	Mutant
+Gundramon/BT6-065	BT6	BT6-065.png	Digimon	6	Black	11	4	11000	Virus	Machine/Three Musketeers
+PileVolcamon/BT6-066	BT6	BT6-066.png	Digimon	6	Black	11	3	11000	Data	Cyborg
+Gankoomon/BT6-067	BT6	BT6-067.png	Digimon	6	Black	12	4	12000	Data	Holy Warrior/Royal Knight
+Gankoomon/BT6-067	BT6	BT6-067_P1.png	Digimon	6	Black	12	4	12000	Data	Holy Warrior/Royal Knight
+Impmon/BT6-068	BT6	BT6-068.png	Digimon	3	Purple	3	0	2000	Virus	Evil
+Impmon/BT6-068	BT6	BT6-068_P1.png	Digimon	3	Purple	3	0	2000	Virus	Evil
+Goblimon/BT6-069	BT6	BT6-069.png	Digimon	3	Purple	3	0	2000	Virus	Demon
+Elecmon/BT6-070	BT6	BT6-070.png	Digimon	3	Purple	4	0	2000	Virus	Mammal
+Kinkakumon/BT6-071	BT6	BT6-071.png	Digimon	4	Purple	4	2	5000	Virus	Demon
+Ogremon/BT6-072	BT6	BT6-072.png	Digimon	4	Purple	5	2	4000	Virus	Demon
+Ginkakumon/BT6-073	BT6	BT6-073.png	Digimon	4	Purple	5	2	5000	Virus	Demon
+Boogiemon/BT6-074	BT6	BT6-074.png	Digimon	4	Purple	5	2	7000	Virus	Wizard
+Ginkakumon Promote/BT6-075	BT6	BT6-075.png	Digimon	4	Purple	6	2	6000	Virus	Demon
+Feresmon/BT6-076	BT6	BT6-076.png	Digimon	5	Purple	6	3	9000	Virus	Fallen Angel
+Rebellimon/BT6-077	BT6	BT6-077.png	Digimon	5	Purple	7	3	7000	Virus	Cyborg
+SkullGreymon/BT6-078	BT6	BT6-078.png	Digimon	5	Purple	8	3	7000	Virus	Undead
+SkullGreymon/BT6-078	BT6	BT6-078_P1.png	Digimon	5	Purple	8	3	7000	Virus	Undead
+Murmukusmon/BT6-079	BT6	BT6-079.png	Digimon	6	Purple	11	3	10000	Virus	Demon Lord
+Ornismon/BT6-080	BT6	BT6-080.png	Digimon	6	Purple	12	4	12000	Virus	Ancient Bird
+Titamon/BT6-081	BT6	BT6-081.png	Digimon	6	Purple	12	4	12000	Virus	Shaman
+Titamon/BT6-081	BT6	BT6-081_P1.png	Digimon	6	Purple	12	4	12000	Virus	Shaman
+Sistermon Blanc/BT6-082	BT6	BT6-082.png	Digimon	3	White	3	-	3000	Vaccine	Puppet
+Sistermon Blanc/BT6-082	BT6	BT6-082_P1.png	Digimon	3	White	3	-	3000	Vaccine	Puppet
+Eosmon/BT6-083	BT6	BT6-083.png	Digimon	4	White	4	2	4000	Unknown	Unknown
+Sistermon Ciel/BT6-084	BT6	BT6-084.png	Digimon	4	White	4	-	5000	Data	Puppet
+Sistermon Ciel/BT6-084	BT6	BT6-084_P1.png	Digimon	4	White	4	-	5000	Data	Puppet
+Eosmon/BT6-085	BT6	BT6-085.png	Digimon	5	White	5	3	6000	Unknown	Unknown
+Eosmon/BT6-086	BT6	BT6-086.png	Digimon	6	White	13	5	13000	Unknown	Unknown
+Eosmon/BT6-086	BT6	BT6-086_P1.png	Digimon	6	White	13	5	13000	Unknown	Unknown
+Alphamon/BT6-111	BT6	BT6-111.png	Digimon	6	Black	13	3	11000	Vaccine	Holy Warrior/Royal Knight/X-Antibody
+Alphamon/BT6-111	BT6	BT6-111_P1.png	Digimon	6	Black	13	3	11000	Vaccine	Holy Warrior/Royal Knight/X-Antibody
+BeelStarmon/BT6-112	BT6	BT6-112.png	Digimon	6	Purple	12	3	11000	Virus	Wizard/Three Musketeers
+BeelStarmon/BT6-112	BT6	BT6-112_P1.png	Digimon	6	Purple	12	3	11000	Virus	Wizard/Three Musketeers
+Omnimon/BT1-084	BT1	BT1-084_P3.png	Digimon	7	White	15	6	15000	Vaccine	Holy Warrior/Royal Knight
+Phoenixmon/ST1-10	ST1	ST1-10_P1.png	Digimon	6	Red	10	2	12000	Vaccine	Holy Beast
+Devimon/BT2-074	BT2	BT2-074_P1.png	Digimon	4	Purple	6	2	4000	Virus	Fallen Angel
+Millenniummon/BT2-083	BT2	BT2-083_P1.png	Digimon	7	White	15	6	13000	Virus	Composite
+Veemon/BT3-021	BT3	BT3-021_P1.png	Digimon	3	Blue	3	0	2000	Free	Mini Dragon
+Angewomon/BT3-039	BT3	BT3-039_P1.png	Digimon	5	Yellow	7	3	6000	Vaccine	Archangel
+Terriermon/BT3-046	BT3	BT3-046_P1.png	Digimon	3	Green	3	0	2000	Vaccine	Beast
+MegaGargomon/BT3-057	BT3	BT3-057_P1.png	Digimon	6	Green	12	4	11000	Vaccine	Machine
+Aldamon/BT4-016	BT4	BT4-016_P1.png	Digimon	5	Red	8	3	7000	Variable	Wizard
+Chaosmon: Valdur Arm/BT4-091	BT4	BT4-091_P1.png	Digimon	7	White	15	6	14000	Vaccine	Unique
+Tai Kamiya/BT6-087	BT6	BT6-087.png	Tamer	-	Red	3	-	-	-	-
+Matt Ishida/BT6-088	BT6	BT6-088.png	Tamer	-	Blue	3	-	-	-	-
+T.K. Takaishi &amp; Kari Kamiya/BT6-089	BT6	BT6-089.png	Tamer	-	Yellow	4	-	-	-	-
+Izzy Izumi &amp; Joe Kido/BT6-090	BT6	BT6-090.png	Tamer	-	Black	4	-	-	-	-
+Sora Takenouchi &amp; Mimi Tachikawa/BT6-091	BT6	BT6-091.png	Tamer	-	Purple	4	-	-	-	-
+Menoa Bellucci/BT6-092	BT6	BT6-092.png	Tamer	-	White	4	-	-	-	-
+Judgement of the Blade/BT6-093	BT6	BT6-093.png	Option	-	Red	1	-	-	-	-
+Red Reamer/BT6-094	BT6	BT6-094.png	Option	-	Red	4	-	-	-	-
+Happy Bullet Showering/BT6-095	BT6	BT6-095.png	Option	-	Red	7	-	-	-	-
+Forbidden Trident/BT6-096	BT6	BT6-096.png	Option	-	Blue	1	-	-	-	-
+Howling Memory Boost!/BT6-097	BT6	BT6-097.png	Option	-	Blue	3	-	-	-	-
+Raddle Star/BT6-098	BT6	BT6-098.png	Option	-	Blue	5	-	-	-	-
+Acid Injection/BT6-099	BT6	BT6-099.png	Option	-	Yellow	1	-	-	-	-
+Reinforcing Memory Boost!/BT6-100	BT6	BT6-100.png	Option	-	Yellow	6	-	-	-	-
+Wyvern's Breath/BT6-101	BT6	BT6-101.png	Option	-	Yellow	8	-	-	-	-
+Tropical Venom/BT6-102	BT6	BT6-102.png	Option	-	Green	-	-	-	-	-
+Blasted Disaster/BT6-103	BT6	BT6-103.png	Option	-	Green	6	-	-	-	-
+Parabolic Junk/BT6-104	BT6	BT6-104.png	Option	-	Black	-	-	-	-	-
+Gewalt Schw?rmer/BT6-105	BT6	BT6-105.png	Option	-	Black	7	-	-	-	-
+Iron-Fisted Onslaught/BT6-106	BT6	BT6-106.png	Option	-	Black	8	-	-	-	-
+Glaive Memory Boost!/BT6-107	BT6	BT6-107.png	Option	-	Purple	3	-	-	-	-
+Underworld's Call/BT6-108	BT6	BT6-108.png	Option	-	Purple	4	-	-	-	-
+Fly Bullet/BT6-109	BT6	BT6-109.png	Option	-	Purple	7	-	-	-	-
+Cutting Edge/BT6-110	BT6	BT6-110.png	Option	-	White	6	-	-	-	-

@@ -1,0 +1,53 @@
+Name	Set	ImageFile	Category	Level	Color	PlayCost	DigivolutionCost	DP	Attribute	Type
+Guilmon/P-041	P	P-041.png	Digimon	3	Red	3	0	2000	Virus	Reptile
+Gabumon/P-042	P	P-042.png	Digimon	3	Blue	3	0	2000	Data	Reptile
+Kudamon/P-043	P	P-043.png	Digimon	3	Yellow	3	0	1000	Vaccine	Holy Beast
+HerculesKabuterimon/P-044	P	P-044.png	Digimon	6	Green	11	3	11000	Vaccine	Insectoid
+Kurisarimon/P-045	P	P-045.png	Digimon	4	Black	4	2	5000	Unknown	Unidentified
+Wizardmon/P-046	P	P-046.png	Digimon	4	Purple	5	2	5000	Data	Wizard
+Red Memory Boost!/P-035	P	P-035.png	Option	-	Red	3	-	-	-	-
+Blue Memory Boost!/P-036	P	P-036.png	Option	-	Blue	3	-	-	-	-
+Yellow Memory Boost!/P-037	P	P-037.png	Option	-	Yellow	3	-	-	-	-
+Green Memory Boost!/P-038	P	P-038.png	Option	-	Green	3	-	-	-	-
+Black Memory Boost!/P-039	P	P-039.png	Option	-	Black	3	-	-	-	-
+Purple Memory Boost!/P-040	P	P-040.png	Option	-	Purple	3	-	-	-	-
+Koromon/BT5-001	BT5	BT5-001_P1.png	Digi-Egg	2	Red	-	-	-	-	Lesser
+Greymon/BT5-010	BT5	BT5-010_P1.png	Digimon	4	Red	5	2	5000	Vaccine	Dinosaur
+GranKuwagamon/P-025	P	P-025.png	Digimon	6	Green	11	3	11000	Free	Insectoid
+BlackWarGreymon/P-026	P	P-026.png	Digimon	6	Black	11	3	11000	Virus	Dragonkin
+MetalGarurumon/P-027	P	P-027.png	Digimon	6	Purple	11	3	11000	Virus	Cyborg
+Agunimon/P-029	P	P-029.png	Digimon	4	Red	5	2	4000	Variable	Wizard
+Lobomon/P-030	P	P-030.png	Digimon	4	Blue	5	2	4000	Variable	Warrior
+Gatomon/P-031	P	P-031.png	Digimon	4	Yellow	6	2	5000	Vaccine	Holy Beast
+Palmon/P-032	P	P-032.png	Digimon	3	Green	3	0	2000	Data	Vegetation
+Sunarizamon/P-033	P	P-033.png	Digimon	3	Black	3	0	2000	Virus	Reptile
+DemiDevimon/P-034	P	P-034.png	Digimon	3	Purple	3	0	2000	Virus	Evil
+Pulsemon/P-028	P	P-028.png	Digimon	3	Yellow	3	0	2000	Vaccine	Beastkin
+Pulsemon/P-028	P	P-028_P1.png	Digimon	3	Yellow	3	0	2000	Vaccine	Beastkin
+A New World/P-021	P	P-021.png	Option	-	Green	-	-	-	-	-
+DNA Digivolution - Hearts United/P-022	P	P-022.png	Option	-	Blue	-	-	-	-	-
+Patamon's Confession/P-023	P	P-023.png	Option	-	Yellow	-	-	-	-	-
+Tai's Growing Up!/P-024	P	P-024.png	Option	-	Red	-	-	-	-	-
+Agumon/P-001	P	P-001.png	Digimon	3	Red	5	0	3000	Vaccine	Reptile
+Biyomon/P-002	P	P-002.png	Digimon	3	Red	3	0	2000	Vaccine	Bird
+Gabumon/P-003	P	P-003.png	Digimon	3	Blue	4	0	3000	Data	Reptile
+Gomamon/P-004	P	P-004.png	Digimon	3	Blue	3	0	1000	Vaccine	Sea Beast
+Patamon/P-005	P	P-005.png	Digimon	3	Yellow	4	0	2000	Data	Mammal
+Gatomon/P-006	P	P-006.png	Digimon	4	Yellow	4	2	4000	Vaccine	Holy Beast
+Garurumon/P-007	P	P-007.png	Digimon	4	Blue	4	2	4000	Vaccine	Beast
+WereGarurumon/P-008	P	P-008.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
+WereGarurumon/P-008	P	P-008_P1.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
+WereGarurumon/P-008	P	P-008_P2.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
+WereGarurumon/P-008	P	P-008_P3.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
+Agumon/P-009	P	P-009.png	Digimon	3	Red	3	0	2000	Vaccine	Reptile
+Greymon/P-010	P	P-010.png	Digimon	4	Red	5	2	5000	Vaccine	Dinosaur
+Veedramon Zero/P-011	P	P-011.png	Digimon	4	Blue	6	2	5000	Vaccine	Mythical Dragon
+Tai Kamiya (V-Tamer)/P-012	P	P-012.png	Tamer	-	Blue	2	-	-	-	-
+Keramon/P-013	P	P-013.png	Digimon	3	Black	3	0	2000	Unknown	Unidentified
+Kurisarimon/P-014	P	P-014.png	Digimon	4	Black	4	2	5000	Unknown	Unidentified
+Infermon/P-015	P	P-015.png	Digimon	5	Black	7	3	7000	Unknown	Unidentified
+Diaboromon/P-016	P	P-016.png	Digimon	6	Black	11	3	11000	Unknown	Unidentified
+DemiDevimon/P-017	P	P-017.png	Digimon	3	Purple	3	0	2000	Virus	Evil
+Devimon/P-018	P	P-018.png	Digimon	4	Purple	5	2	3000	Virus	Fallen Angel
+Myotismon/P-019	P	P-019.png	Digimon	5	Purple	7	3	7000	Virus	Undead
+VenomMyotismon/P-020	P	P-020.png	Digimon	6	Purple	11	3	11000	Virus	Dark Animal

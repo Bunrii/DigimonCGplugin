@@ -1,0 +1,20 @@
+Name	Set	ImageFile	Category	Level	Color	PlayCost	DigivolutionCost	DP	Attribute	Type
+Pagumon/ST6-01	ST6	ST6-01.png	Digi-Egg	2	Purple	-	-	-	-	Lesser
+DemiDevimon/ST6-02	ST6	ST6-02.png	Digimon	3	Purple	2	1	4000	Virus	Evil
+Gabumon/ST6-03	ST6	ST6-03.png	Digimon	3	Purple	3	0	2000	Data	Reptile
+Dracmon/ST6-04	ST6	ST6-04.png	Digimon	3	Purple	3	0	2000	Virus	Undead
+Elecmon/ST6-05	ST6	ST6-05.png	Digimon	3	Purple	4	0	5000	Virus	Mammal
+Garurumon/ST6-06	ST6	ST6-06.png	Digimon	4	Purple	4	2	4000	Virus	Beast
+Youkomon/ST6-07	ST6	ST6-07.png	Digimon	4	Purple	5	2	6000	Data	Mysterious Beast
+Devimon/ST6-08	ST6	ST6-08.png	Digimon	4	Purple	6	1	5000	Virus	Fallen Angel
+Devimon/ST6-08	ST6	ST6-08_P1.png	Digimon	4	Purple	6	1	5000	Virus	Fallen Angel
+Devimon/ST6-08	ST6	ST6-08_P2.png	Digimon	4	Purple	6	1	5000	Virus	Fallen Angel
+Devimon/ST6-08	ST6	ST6-08_P3.png	Digimon	4	Purple	6	1	5000	Virus	Fallen Angel
+Kyukimon/ST6-09	ST6	ST6-09.png	Digimon	5	Purple	6	3	9000	Virus	Mysterious Beast
+SkullSatamon/ST6-10	ST6	ST6-10.png	Digimon	5	Purple	6	3	7000	Virus	Undead
+WereGarurumon/ST6-11	ST6	ST6-11.png	Digimon	5	Purple	7	3	7000	Virus	Beastkin
+VenomMyotismon/ST6-12	ST6	ST6-12.png	Digimon	6	Purple	10	3	11000	Virus	Dark Animal
+CresGarurumon/ST6-13	ST6	ST6-13.png	Digimon	6	Purple	12	4	12000	Data	Beast Knight
+Matt Ishida/ST6-14	ST6	ST6-14.png	Tamer	-	Purple	2	-	-	-	-
+Death Claw/ST6-15	ST6	ST6-15.png	Option	-	Purple	1	-	-	-	-
+Nail Bone/ST6-16	ST6	ST6-16.png	Option	-	Purple	7	-	-	-	-

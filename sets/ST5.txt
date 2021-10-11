@@ -1,0 +1,18 @@
+Name	Set	ImageFile	Category	Level	Color	PlayCost	DigivolutionCost	DP	Attribute	Type
+Kapurimon/ST5-01	ST5	ST5-01.png	Digi-Egg	2	Black	-	-	-	-	Lesser
+Jazamon/ST5-02	ST5	ST5-02.png	Digimon	3	Black	2	1	4000	Data	Bird Dragon
+Agumon/ST5-03	ST5	ST5-03.png	Digimon	3	Black	3	0	1000	Vaccine	Reptile
+Agumon/ST5-03	ST5	ST5-03_P1.png	Digimon	3	Black	3	0	1000	Vaccine	Reptile
+ToyAgumon/ST5-04	ST5	ST5-04.png	Digimon	3	Black	3	0	2000	Virus	Puppet
+Commandramon/ST5-05	ST5	ST5-05.png	Digimon	3	Black	4	0	5000	Virus	Cyborg/D-Brigade
+Greymon/ST5-06	ST5	ST5-06.png	Digimon	4	Black	4	2	4000	Virus	Dinosaur
+Jazardmon/ST5-07	ST5	ST5-07.png	Digimon	4	Black	5	2	6000	Data	Machine Dragon
+DarkTyrannomon/ST5-08	ST5	ST5-08.png	Digimon	4	Black	6	1	5000	Virus	Dinosaur
+MetalGreymon/ST5-09	ST5	ST5-09.png	Digimon	5	Black	6	3	7000	Virus	Cyborg
+MetalTyrannomon/ST5-10	ST5	ST5-10.png	Digimon	5	Black	6	3	9000	Virus	Cyborg
+Megadramon/ST5-11	ST5	ST5-11.png	Digimon	5	Black	7	3	7000	Virus	Cyborg
+Machinedramon/ST5-12	ST5	ST5-12.png	Digimon	6	Black	10	3	11000	Virus	Machine
+BlitzGreymon/ST5-13	ST5	ST5-13.png	Digimon	6	Black	12	4	12000	Virus	Cyborg
+Tai Kamiya/ST5-14	ST5	ST5-14.png	Tamer	-	Black	2	-	-	-	-
+Laser Eye/ST5-15	ST5	ST5-15.png	Option	-	Black	4	-	-	-	-
+Dark Side Attack/ST5-16	ST5	ST5-16.png	Option	-	Black	5	-	-	-	-
