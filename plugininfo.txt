@@ -104,6 +104,11 @@
 </cardfunction>
 
 <cardfunction>
+	<label>Face up</label>
+	<kind>CLEARCARD</kind>
+</cardfunction>
+
+<cardfunction>
 	<label>Note</label>
 	<kind>EDITNOTE</kind>
 	<includeasbutton>yes</includeasbutton>
