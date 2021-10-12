@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BT2-044.png">Tyrannomon/BT2-044</name><set>BT2</set></card>
+		<card><name id="BT2-044.png">Tyrannomon/BT2-044</name><set>BT2</set></card>
+		<card><name id="BT2-044.png">Tyrannomon/BT2-044</name><set>BT2</set></card>
+		<card><name id="BT2-044.png">Tyrannomon/BT2-044</name><set>BT2</set></card>
+		<card><name id="BT2-046.png">MetalTyrannomon/BT2-046</name><set>BT2</set></card>
+		<card><name id="BT2-046.png">MetalTyrannomon/BT2-046</name><set>BT2</set></card>
+		<card><name id="BT2-046.png">MetalTyrannomon/BT2-046</name><set>BT2</set></card>
+		<card><name id="BT2-046.png">MetalTyrannomon/BT2-046</name><set>BT2</set></card>
+		<card><name id="BT2-051.png">RustTyrannomon/BT2-051</name><set>BT2</set></card>
+		<card><name id="BT2-051.png">RustTyrannomon/BT2-051</name><set>BT2</set></card>
+		<card><name id="BT2-051.png">RustTyrannomon/BT2-051</name><set>BT2</set></card>
+		<card><name id="BT2-051.png">RustTyrannomon/BT2-051</name><set>BT2</set></card>
+		<card><name id="BT2-088.png">Taiga/BT2-088</name><set>BT2</set></card>
+		<card><name id="BT2-088.png">Taiga/BT2-088</name><set>BT2</set></card>
+		<card><name id="BT2-088.png">Taiga/BT2-088</name><set>BT2</set></card>
+		<card><name id="BT2-088.png">Taiga/BT2-088</name><set>BT2</set></card>
+		<card><name id="ST4-03.png">Tentomon/ST4-03</name><set>ST4</set></card>
+		<card><name id="ST4-03.png">Tentomon/ST4-03</name><set>ST4</set></card>
+		<card><name id="ST4-03.png">Tentomon/ST4-03</name><set>ST4</set></card>
+		<card><name id="ST4-03.png">Tentomon/ST4-03</name><set>ST4</set></card>
+		<card><name id="ST4-04.png">Palmon/ST4-04</name><set>ST4</set></card>
+		<card><name id="ST4-04.png">Palmon/ST4-04</name><set>ST4</set></card>
+		<card><name id="ST4-04.png">Palmon/ST4-04</name><set>ST4</set></card>
+		<card><name id="ST4-04.png">Palmon/ST4-04</name><set>ST4</set></card>
+		<card><name id="BT2-043.png">Agumon/BT2-043</name><set>BT2</set></card>
+		<card><name id="BT2-043.png">Agumon/BT2-043</name><set>BT2</set></card>
+		<card><name id="BT2-043.png">Agumon/BT2-043</name><set>BT2</set></card>
+		<card><name id="BT2-043.png">Agumon/BT2-043</name><set>BT2</set></card>
+		<card><name id="ST4-06.png">Togemon/ST4-06</name><set>ST4</set></card>
+		<card><name id="ST4-06.png">Togemon/ST4-06</name><set>ST4</set></card>
+		<card><name id="ST4-08.png">Kabuterimon/ST4-08</name><set>ST4</set></card>
+		<card><name id="ST4-08.png">Kabuterimon/ST4-08</name><set>ST4</set></card>
+		<card><name id="ST4-08.png">Kabuterimon/ST4-08</name><set>ST4</set></card>
+		<card><name id="ST4-08.png">Kabuterimon/ST4-08</name><set>ST4</set></card>
+		<card><name id="P-038.png">Green Memory Boost!/P-038</name><set>P</set></card>
+		<card><name id="P-038.png">Green Memory Boost!/P-038</name><set>P</set></card>
+		<card><name id="P-038.png">Green Memory Boost!/P-038</name><set>P</set></card>
+		<card><name id="P-038.png">Green Memory Boost!/P-038</name><set>P</set></card>
+		<card><name id="BT1-112.png">Dimension Scissor/BT1-112</name><set>BT1</set></card>
+		<card><name id="BT1-112.png">Dimension Scissor/BT1-112</name><set>BT1</set></card>
+		<card><name id="BT1-112.png">Dimension Scissor/BT1-112</name><set>BT1</set></card>
+		<card><name id="BT1-112.png">Dimension Scissor/BT1-112</name><set>BT1</set></card>
+		<card><name id="BT1-067.png">Palmon/BT1-067</name><set>BT1</set></card>
+		<card><name id="BT1-067.png">Palmon/BT1-067</name><set>BT1</set></card>
+		<card><name id="BT1-077.png">Okuwamon/BT1-077</name><set>BT1</set></card>
+		<card><name id="BT1-077.png">Okuwamon/BT1-077</name><set>BT1</set></card>
+		<card><name id="BT1-077.png">Okuwamon/BT1-077</name><set>BT1</set></card>
+		<card><name id="BT1-077.png">Okuwamon/BT1-077</name><set>BT1</set></card>
+		<card><name id="BT2-049_P1.png">Puppetmon/BT2-049_P1</name><set>BT2</set></card>
+		<card><name id="BT2-049_P1.png">Puppetmon/BT2-049_P1</name><set>BT2</set></card>
+	</superzone>
+	<superzone name="Digi-Egg Deck">
+		<card><name id="BT3-004.png">Minomon/BT3-004</name><set>BT3</set></card>
+		<card><name id="BT3-004.png">Minomon/BT3-004</name><set>BT3</set></card>
+		<card><name id="BT3-004.png">Minomon/BT3-004</name><set>BT3</set></card>
+		<card><name id="BT3-004.png">Minomon/BT3-004</name><set>BT3</set></card>
+		<card><name id="ST4-01.png">Motimon/ST4-01</name><set>ST4</set></card>
+	</superzone>
+</deck>

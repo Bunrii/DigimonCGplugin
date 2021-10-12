@@ -1,17 +1,17 @@
-Name	Set	ImageFile	Category	Level	Color	PlayCost	DigivolutionCost	DP	Attribute	Type
+Name	Set	ImageFile	Category	Level	Color	PlayCost	DVCost	DP	Attribute	Type
 DemiVeemon/ST8-01	ST8	ST8-01.png	Digi-Egg	2	Blue	-	-	-	-	Baby Dragon
-Elecmon/BT1-028	BT1	BT1-028_P1.png	Digimon	3	Blue	2	0	3000	Data	Mammal
+Elecmon/BT1-028_P1	BT1	BT1-028_P1.png	Digimon	3	Blue	2	0	3000	Data	Mammal
 Gabumon/ST8-02	ST8	ST8-02.png	Digimon	3	Blue	3	0	2000	Data	Reptile
 Dracomon/ST8-03	ST8	ST8-03.png	Digimon	3	Blue	3	0	2000	Data	Dragon
 Veemon/ST8-04	ST8	ST8-04.png	Digimon	3	Blue	3	0	2000	Free	Mini Dragon
 Veedramon/ST8-05	ST8	ST8-05.png	Digimon	4	Blue	4	2	5000	Vaccine	Mythical Dragon
 Coredramon/ST8-06	ST8	ST8-06.png	Digimon	4	Blue	6	2	5000	Vaccine	Dragon
-Gorillamon/BT1-037	BT1	BT1-037_P1.png	Digimon	4	Blue	6	1	6000	Data	Beastkin
-Monzaemon/BT1-038	BT1	BT1-038_P2.png	Digimon	5	Blue	5	2	6000	Vaccine	Puppet
+Gorillamon/BT1-037_P1	BT1	BT1-037_P1.png	Digimon	4	Blue	6	1	6000	Data	Beastkin
+Monzaemon/BT1-038_P2	BT1	BT1-038_P2.png	Digimon	5	Blue	5	2	6000	Vaccine	Puppet
 Wingdramon/ST8-07	ST8	ST8-07.png	Digimon	5	Blue	7	3	7000	Vaccine	Sky Dragon
 AeroVeedramon/ST8-08	ST8	ST8-08.png	Digimon	5	Blue	7	3	7000	Vaccine	Holy Dragon
 Slayerdramon/ST8-09	ST8	ST8-09.png	Digimon	6	Blue	11	3	11000	Vaccine	Dragonkin
 UlforceVeedramon/ST8-10	ST8	ST8-10.png	Digimon	6	Blue	12	4	12000	Vaccine	Holy Warrior/Royal Knight
-Hammer Spark/ST2-13	ST2	ST2-13_P2.png	Option	-	Blue	-	-	-	-	-
+Hammer Spark/ST2-13_P2	ST2	ST2-13_P2.png	Option	-	Blue	-	-	-	-	-
 Victory Sword/ST8-11	ST8	ST8-11.png	Option	-	Blue	3	-	-	-	-
 V-Wing Blade/ST8-12	ST8	ST8-12.png	Option	-	Blue	6	-	-	-	-

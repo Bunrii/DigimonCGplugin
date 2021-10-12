@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Category	Level	Color	PlayCost	DigivolutionCost	DP	Attribute	Type
+Name	Set	ImageFile	Category	Level	Color	PlayCost	DVCost	DP	Attribute	Type
 Koromon/BT5-001	BT5	BT5-001.png	Digi-Egg	2	Red	-	-	-	-	Lesser
 Tsunomon/BT5-002	BT5	BT5-002.png	Digi-Egg	2	Blue	-	-	-	-	Lesser
 Pickmon/BT5-003	BT5	BT5-003.png	Digi-Egg	2	Yellow	-	-	-	-	Minor
@@ -18,7 +18,7 @@ WarGreymon/BT5-016	BT5	BT5-016.png	Digimon	6	Red	11	3	11000	Vaccine	Dragonkin
 ZeigGreymon/BT5-017	BT5	BT5-017.png	Digimon	6	Red	12	3	11000	Virus	Cyborg
 Dorbickmon/BT5-018	BT5	BT5-018.png	Digimon	6	Red	12	3	11000	Virus	Dragonkin/Big Death-Stars
 Shoutmon DX/BT5-019	BT5	BT5-019.png	Digimon	6	Red	13	4	12000	Data	Composite
-Shoutmon DX/BT5-019	BT5	BT5-019_P1.png	Digimon	6	Red	13	4	12000	Data	Composite
+Shoutmon DX/BT5-019_P1	BT5	BT5-019_P1.png	Digimon	6	Red	13	4	12000	Data	Composite
 Gabumon/BT5-020	BT5	BT5-020.png	Digimon	3	Blue	3	0	2000	Data	Reptile
 Syakomon/BT5-021	BT5	BT5-021.png	Digimon	3	Blue	3	0	3000	Virus	Crustacean
 Bulucomon/BT5-022	BT5	BT5-022.png	Digimon	3	Blue	4	0	3000	Data	Mini Dragon
@@ -42,13 +42,13 @@ ShootingStarmon/BT5-039	BT5	BT5-039.png	Digimon	4	Yellow	5	2	4000	Data	Super Maj
 SuperStarmon/BT5-040	BT5	BT5-040.png	Digimon	5	Yellow	6	2	7000	Data	Mutant
 Taomon/BT5-041	BT5	BT5-041.png	Digimon	5	Yellow	6	3	7000	Data	Wizard
 Knightmon/BT5-042	BT5	BT5-042.png	Digimon	5	Yellow	7	3	7000	Data	Warrior
-Knightmon/BT5-042	BT5	BT5-042_P1.png	Digimon	5	Yellow	7	3	7000	Data	Warrior
-Knightmon/BT5-042	BT5	BT5-042_P2.png	Digimon	5	Yellow	7	3	7000	Data	Warrior
-Knightmon/BT5-042	BT5	BT5-042_P3.png	Digimon	5	Yellow	7	3	7000	Data	Warrior
+Knightmon/BT5-042_P1	BT5	BT5-042_P1.png	Digimon	5	Yellow	7	3	7000	Data	Warrior
+Knightmon/BT5-042_P2	BT5	BT5-042_P2.png	Digimon	5	Yellow	7	3	7000	Data	Warrior
+Knightmon/BT5-042_P3	BT5	BT5-042_P3.png	Digimon	5	Yellow	7	3	7000	Data	Warrior
 Jijimon/BT5-043	BT5	BT5-043.png	Digimon	6	Yellow	10	2	10000	Vaccine	Ancient
 Sakuyamon/BT5-044	BT5	BT5-044.png	Digimon	6	Yellow	12	3	11000	Data	Shaman
 LordKnightmon/BT5-045	BT5	BT5-045.png	Digimon	6	Yellow	13	3	11000	Virus	Holy Warrior/Royal Knight
-LordKnightmon/BT5-045	BT5	BT5-045_P1.png	Digimon	6	Yellow	13	3	11000	Virus	Holy Warrior/Royal Knight
+LordKnightmon/BT5-045_P1	BT5	BT5-045_P1.png	Digimon	6	Yellow	13	3	11000	Virus	Holy Warrior/Royal Knight
 Terriermon Assistant/BT5-046	BT5	BT5-046.png	Digimon	3	Green	3	0	1000	Vaccine	Beast
 Palmon/BT5-047	BT5	BT5-047.png	Digimon	3	Green	3	0	2000	Data	Vegetation
 Floramon/BT5-048	BT5	BT5-048.png	Digimon	3	Green	3	0	4000	Data	Vegetation
@@ -85,39 +85,39 @@ Jokermon/BT5-078	BT5	BT5-078.png	Digimon	5	Purple	7	3	7000	Virus	Wizard
 BlackWarGrowlmon/BT5-079	BT5	BT5-079.png	Digimon	5	Purple	8	3	7000	Virus	Cyborg
 Zanbamon/BT5-080	BT5	BT5-080.png	Digimon	6	Purple	10	2	10000	Virus	Wizard
 ChaosGallantmon/BT5-081	BT5	BT5-081.png	Digimon	6	Purple	12	4	12000	Virus	Dark Knight
-ChaosGallantmon/BT5-081	BT5	BT5-081_P1.png	Digimon	6	Purple	12	4	12000	Virus	Dark Knight
-ChaosGallantmon/BT5-081	BT5	BT5-081_P2.png	Digimon	6	Purple	12	4	12000	Virus	Dark Knight
+ChaosGallantmon/BT5-081_P1	BT5	BT5-081_P1.png	Digimon	6	Purple	12	4	12000	Virus	Dark Knight
+ChaosGallantmon/BT5-081_P2	BT5	BT5-081_P2.png	Digimon	6	Purple	12	4	12000	Virus	Dark Knight
 Tactimon/BT5-082	BT5	BT5-082.png	Digimon	6	Purple	12	3	11000	Data	Wizard
 Megidramon/BT5-083	BT5	BT5-083.png	Digimon	6	Purple	12	3	11000	Virus	Evil Dragon/Four Great Dragons
 Diaboromon/BT5-084	BT5	BT5-084.png	Digimon	6	White	11	3	11000	Unknown	Unidentified
-Diaboromon/BT5-084	BT5	BT5-084_P1.png	Digimon	6	White	11	3	11000	Unknown	Unidentified
-Diaboromon/BT5-084	BT5	BT5-084_P2.png	Digimon	6	White	11	3	11000	Unknown	Unidentified
+Diaboromon/BT5-084_P1	BT5	BT5-084_P1.png	Digimon	6	White	11	3	11000	Unknown	Unidentified
+Diaboromon/BT5-084_P2	BT5	BT5-084_P2.png	Digimon	6	White	11	3	11000	Unknown	Unidentified
 Armageddemon/BT5-085	BT5	BT5-085.png	Digimon	7	White	15	3	15000	Unknown	Unidentified
-Armageddemon/BT5-085	BT5	BT5-085_P1.png	Digimon	7	White	15	3	15000	Unknown	Unidentified
+Armageddemon/BT5-085_P1	BT5	BT5-085_P1.png	Digimon	7	White	15	3	15000	Unknown	Unidentified
 Omnimon/BT5-086	BT5	BT5-086.png	Digimon	7	White	15	4	14000	Vaccine	Holy Warrior/Royal Knight
-Omnimon/BT5-086	BT5	BT5-086_P1.png	Digimon	7	White	15	4	14000	Vaccine	Holy Warrior/Royal Knight
-Omnimon/BT5-086	BT5	BT5-086_P2.png	Digimon	7	White	15	4	14000	Vaccine	Holy Warrior/Royal Knight
-Omnimon/BT5-086	BT5	BT5-086_P3.png	Digimon	7	White	15	4	14000	Vaccine	Holy Warrior/Royal Knight
-Omnimon/BT5-086	BT5	BT5-086_P4.png	Digimon	7	White	15	4	14000	Vaccine	Holy Warrior/Royal Knight
+Omnimon/BT5-086_P1	BT5	BT5-086_P1.png	Digimon	7	White	15	4	14000	Vaccine	Holy Warrior/Royal Knight
+Omnimon/BT5-086_P2	BT5	BT5-086_P2.png	Digimon	7	White	15	4	14000	Vaccine	Holy Warrior/Royal Knight
+Omnimon/BT5-086_P3	BT5	BT5-086_P3.png	Digimon	7	White	15	4	14000	Vaccine	Holy Warrior/Royal Knight
+Omnimon/BT5-086_P4	BT5	BT5-086_P4.png	Digimon	7	White	15	4	14000	Vaccine	Holy Warrior/Royal Knight
 Omnimon Zwart/BT5-087	BT5	BT5-087.png	Digimon	7	White	15	6	15000	Vaccine	Holy Warrior
-Omnimon Zwart/BT5-087	BT5	BT5-087_P1.png	Digimon	7	White	15	6	15000	Vaccine	Holy Warrior
-Omnimon Zwart/BT5-087	BT5	BT5-087_P2.png	Digimon	7	White	15	6	15000	Vaccine	Holy Warrior
+Omnimon Zwart/BT5-087_P1	BT5	BT5-087_P1.png	Digimon	7	White	15	6	15000	Vaccine	Holy Warrior
+Omnimon Zwart/BT5-087_P2	BT5	BT5-087_P2.png	Digimon	7	White	15	6	15000	Vaccine	Holy Warrior
 Omnimon X Anti-body/BT5-111	BT5	BT5-111.png	Digimon	7	White	15	6	15000	Vaccine	Holy Warrior/Royal Knight/X-Antibody
-Omnimon X Anti-body/BT5-111	BT5	BT5-111_P1.png	Digimon	7	White	15	6	15000	Vaccine	Holy Warrior/Royal Knight/X-Antibody
+Omnimon X Anti-body/BT5-111_P1	BT5	BT5-111_P1.png	Digimon	7	White	15	6	15000	Vaccine	Holy Warrior/Royal Knight/X-Antibody
 Omnimon Zwart Defeat/BT5-112	BT5	BT5-112.png	Digimon	7	White	15	3	13000	Virus	Holy Warrior
-Omnimon Zwart Defeat/BT5-112	BT5	BT5-112_P1.png	Digimon	7	White	15	3	13000	Virus	Holy Warrior
+Omnimon Zwart Defeat/BT5-112_P1	BT5	BT5-112_P1.png	Digimon	7	White	15	3	13000	Virus	Holy Warrior
 Sora Takenouchi &amp; Joe Kido/BT5-088	BT5	BT5-088.png	Tamer	-	Blue	4	-	-	-	-
-Sora Takenouchi &amp; Joe Kido/BT5-088	BT5	BT5-088_P1.png	Tamer	-	Blue	4	-	-	-	-
+Sora Takenouchi &amp; Joe Kido/BT5-088_P1	BT5	BT5-088_P1.png	Tamer	-	Blue	4	-	-	-	-
 Izzy Izumi &amp; Mimi Tachikawa/BT5-089	BT5	BT5-089.png	Tamer	-	Green	4	-	-	-	-
-Izzy Izumi &amp; Mimi Tachikawa/BT5-089	BT5	BT5-089_P1.png	Tamer	-	Green	4	-	-	-	-
+Izzy Izumi &amp; Mimi Tachikawa/BT5-089_P1	BT5	BT5-089_P1.png	Tamer	-	Green	4	-	-	-	-
 Arata Sanada/BT5-090	BT5	BT5-090.png	Tamer	-	Black	3	-	-	-	-
-Arata Sanada/BT5-090	BT5	BT5-090_P1.png	Tamer	-	Black	3	-	-	-	-
+Arata Sanada/BT5-090_P1	BT5	BT5-090_P1.png	Tamer	-	Black	3	-	-	-	-
 Takumi Aiba/BT5-091	BT5	BT5-091.png	Tamer	-	White	2	-	-	-	-
-Takumi Aiba/BT5-091	BT5	BT5-091_P1.png	Tamer	-	White	2	-	-	-	-
+Takumi Aiba/BT5-091_P1	BT5	BT5-091_P1.png	Tamer	-	White	2	-	-	-	-
 Nokia Shiramine/BT5-092	BT5	BT5-092.png	Tamer	-	White	3	-	-	-	-
-Nokia Shiramine/BT5-092	BT5	BT5-092_P1.png	Tamer	-	White	3	-	-	-	-
+Nokia Shiramine/BT5-092_P1	BT5	BT5-092_P1.png	Tamer	-	White	3	-	-	-	-
 Tai Kamiya &amp; Matt Ishida/BT5-093	BT5	BT5-093.png	Tamer	-	White	4	-	-	-	-
-Tai Kamiya &amp; Matt Ishida/BT5-093	BT5	BT5-093_P1.png	Tamer	-	White	4	-	-	-	-
+Tai Kamiya &amp; Matt Ishida/BT5-093_P1	BT5	BT5-093_P1.png	Tamer	-	White	4	-	-	-	-
 Rowdy Rocker/BT5-094	BT5	BT5-094.png	Option	-	Red	2	-	-	-	-
 Transcendent Sword/BT5-095	BT5	BT5-095.png	Option	-	Red	7	-	-	-	-
 Supreme Cannon/BT5-096	BT5	BT5-096.png	Option	-	Blue	3	-	-	-	-

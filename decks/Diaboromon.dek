@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BT5-104.png">Catastrophe Cannon/BT5-104</name><set>BT5</set></card>
+		<card><name id="BT5-104.png">Catastrophe Cannon/BT5-104</name><set>BT5</set></card>
+		<card><name id="BT5-104.png">Catastrophe Cannon/BT5-104</name><set>BT5</set></card>
+		<card><name id="BT5-104.png">Catastrophe Cannon/BT5-104</name><set>BT5</set></card>
+		<card><name id="P-039.png">Black Memory Boost!/P-039</name><set>P</set></card>
+		<card><name id="P-039.png">Black Memory Boost!/P-039</name><set>P</set></card>
+		<card><name id="P-039.png">Black Memory Boost!/P-039</name><set>P</set></card>
+		<card><name id="P-039.png">Black Memory Boost!/P-039</name><set>P</set></card>
+		<card><name id="BT5-059.png">Keramon/BT5-059</name><set>BT5</set></card>
+		<card><name id="BT5-059.png">Keramon/BT5-059</name><set>BT5</set></card>
+		<card><name id="BT5-059.png">Keramon/BT5-059</name><set>BT5</set></card>
+		<card><name id="BT5-059.png">Keramon/BT5-059</name><set>BT5</set></card>
+		<card><name id="P-013.png">Keramon/P-013</name><set>P</set></card>
+		<card><name id="P-013.png">Keramon/P-013</name><set>P</set></card>
+		<card><name id="P-013.png">Keramon/P-013</name><set>P</set></card>
+		<card><name id="P-013.png">Keramon/P-013</name><set>P</set></card>
+		<card><name id="P-045.png">Kurisarimon/P-045</name><set>P</set></card>
+		<card><name id="P-045.png">Kurisarimon/P-045</name><set>P</set></card>
+		<card><name id="BT2-059.png">Kurisarimon/BT2-059</name><set>BT2</set></card>
+		<card><name id="BT2-059.png">Kurisarimon/BT2-059</name><set>BT2</set></card>
+		<card><name id="BT5-063.png">Kurisarimon/BT5-063</name><set>BT5</set></card>
+		<card><name id="BT5-063.png">Kurisarimon/BT5-063</name><set>BT5</set></card>
+		<card><name id="BT2-062.png">Infermon/BT2-062</name><set>BT2</set></card>
+		<card><name id="BT2-062.png">Infermon/BT2-062</name><set>BT2</set></card>
+		<card><name id="BT2-062.png">Infermon/BT2-062</name><set>BT2</set></card>
+		<card><name id="BT2-062.png">Infermon/BT2-062</name><set>BT2</set></card>
+		<card><name id="BT5-067.png">Infermon/BT5-067</name><set>BT5</set></card>
+		<card><name id="BT5-067.png">Infermon/BT5-067</name><set>BT5</set></card>
+		<card><name id="BT5-067.png">Infermon/BT5-067</name><set>BT5</set></card>
+		<card><name id="BT5-067.png">Infermon/BT5-067</name><set>BT5</set></card>
+		<card><name id="BT5-084.png">Diaboromon/BT5-084</name><set>BT5</set></card>
+		<card><name id="BT5-084.png">Diaboromon/BT5-084</name><set>BT5</set></card>
+		<card><name id="BT5-084.png">Diaboromon/BT5-084</name><set>BT5</set></card>
+		<card><name id="BT5-062.png">Mekanorimon/BT5-062</name><set>BT5</set></card>
+		<card><name id="BT5-062.png">Mekanorimon/BT5-062</name><set>BT5</set></card>
+		<card><name id="BT5-062.png">Mekanorimon/BT5-062</name><set>BT5</set></card>
+		<card><name id="BT5-062.png">Mekanorimon/BT5-062</name><set>BT5</set></card>
+		<card><name id="BT5-090_P1.png">Arata Sanada/BT5-090_P1</name><set>BT5</set></card>
+		<card><name id="BT5-090_P1.png">Arata Sanada/BT5-090_P1</name><set>BT5</set></card>
+		<card><name id="BT5-090_P1.png">Arata Sanada/BT5-090_P1</name><set>BT5</set></card>
+		<card><name id="BT5-090_P1.png">Arata Sanada/BT5-090_P1</name><set>BT5</set></card>
+		<card><name id="BT2-053_P1.png">Keramon/BT2-053_P1</name><set>BT2</set></card>
+		<card><name id="BT2-053_P1.png">Keramon/BT2-053_P1</name><set>BT2</set></card>
+		<card><name id="BT2-053_P1.png">Keramon/BT2-053_P1</name><set>BT2</set></card>
+		<card><name id="BT2-053_P1.png">Keramon/BT2-053_P1</name><set>BT2</set></card>
+		<card><name id="BT2-082_P1.png">Diaboromon/BT2-082_P1</name><set>BT2</set></card>
+		<card><name id="BT2-082_P1.png">Diaboromon/BT2-082_P1</name><set>BT2</set></card>
+		<card><name id="BT2-082_P1.png">Diaboromon/BT2-082_P1</name><set>BT2</set></card>
+		<card><name id="BT5-085_P1.png">Armageddemon/BT5-085_P1</name><set>BT5</set></card>
+		<card><name id="BT5-085_P1.png">Armageddemon/BT5-085_P1</name><set>BT5</set></card>
+	</superzone>
+	<superzone name="Digi-Egg Deck">
+		<card><name id="BT5-005.png">Tsumemon/BT5-005</name><set>BT5</set></card>
+		<card><name id="BT5-005.png">Tsumemon/BT5-005</name><set>BT5</set></card>
+		<card><name id="BT5-005.png">Tsumemon/BT5-005</name><set>BT5</set></card>
+		<card><name id="BT2-006.png">Tsumemon/BT2-006</name><set>BT2</set></card>
+		<card><name id="BT2-006.png">Tsumemon/BT2-006</name><set>BT2</set></card>
+	</superzone>
+</deck>

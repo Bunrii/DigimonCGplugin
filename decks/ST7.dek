@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ST7-12.png">Atomic Blaster/ST7-12</name><set>ST7</set></card>
+		<card><name id="ST7-12.png">Atomic Blaster/ST7-12</name><set>ST7</set></card>
+		<card><name id="ST7-12.png">Atomic Blaster/ST7-12</name><set>ST7</set></card>
+		<card><name id="ST7-12.png">Atomic Blaster/ST7-12</name><set>ST7</set></card>
+		<card><name id="ST7-11.png">Lightning Joust/ST7-11</name><set>ST7</set></card>
+		<card><name id="ST7-11.png">Lightning Joust/ST7-11</name><set>ST7</set></card>
+		<card><name id="ST7-02.png">Agumon/ST7-02</name><set>ST7</set></card>
+		<card><name id="ST7-02.png">Agumon/ST7-02</name><set>ST7</set></card>
+		<card><name id="ST7-02.png">Agumon/ST7-02</name><set>ST7</set></card>
+		<card><name id="ST7-02.png">Agumon/ST7-02</name><set>ST7</set></card>
+		<card><name id="ST7-04.png">Biyomon/ST7-04</name><set>ST7</set></card>
+		<card><name id="ST7-04.png">Biyomon/ST7-04</name><set>ST7</set></card>
+		<card><name id="ST7-04.png">Biyomon/ST7-04</name><set>ST7</set></card>
+		<card><name id="ST7-04.png">Biyomon/ST7-04</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-06.png">GeoGreymon/ST7-06</name><set>ST7</set></card>
+		<card><name id="ST7-06.png">GeoGreymon/ST7-06</name><set>ST7</set></card>
+		<card><name id="ST7-06.png">GeoGreymon/ST7-06</name><set>ST7</set></card>
+		<card><name id="ST7-06.png">GeoGreymon/ST7-06</name><set>ST7</set></card>
+		<card><name id="ST7-05.png">Growlmon/ST7-05</name><set>ST7</set></card>
+		<card><name id="ST7-05.png">Growlmon/ST7-05</name><set>ST7</set></card>
+		<card><name id="ST7-07.png">RizeGreymon/ST7-07</name><set>ST7</set></card>
+		<card><name id="ST7-07.png">RizeGreymon/ST7-07</name><set>ST7</set></card>
+		<card><name id="ST7-07.png">RizeGreymon/ST7-07</name><set>ST7</set></card>
+		<card><name id="ST7-07.png">RizeGreymon/ST7-07</name><set>ST7</set></card>
+		<card><name id="ST7-08.png">WarGrowlmon/ST7-08</name><set>ST7</set></card>
+		<card><name id="ST7-08.png">WarGrowlmon/ST7-08</name><set>ST7</set></card>
+		<card><name id="ST7-08.png">WarGrowlmon/ST7-08</name><set>ST7</set></card>
+		<card><name id="ST7-08.png">WarGrowlmon/ST7-08</name><set>ST7</set></card>
+		<card><name id="ST7-09.png">Gallantmon/ST7-09</name><set>ST7</set></card>
+		<card><name id="ST7-09.png">Gallantmon/ST7-09</name><set>ST7</set></card>
+		<card><name id="ST7-10.png">ShineGreymon/ST7-10</name><set>ST7</set></card>
+		<card><name id="ST7-10.png">ShineGreymon/ST7-10</name><set>ST7</set></card>
+		<card><name id="ST7-10.png">ShineGreymon/ST7-10</name><set>ST7</set></card>
+		<card><name id="ST7-10.png">ShineGreymon/ST7-10</name><set>ST7</set></card>
+		<card><name id="BT1-009_P1.png">Monodramon/BT1-009_P1</name><set>BT1</set></card>
+		<card><name id="BT1-009_P1.png">Monodramon/BT1-009_P1</name><set>BT1</set></card>
+		<card><name id="BT1-009_P1.png">Monodramon/BT1-009_P1</name><set>BT1</set></card>
+		<card><name id="BT1-009_P1.png">Monodramon/BT1-009_P1</name><set>BT1</set></card>
+		<card><name id="BT1-019_P1.png">DarkTyrannomon/BT1-019_P1</name><set>BT1</set></card>
+		<card><name id="BT1-019_P1.png">DarkTyrannomon/BT1-019_P1</name><set>BT1</set></card>
+		<card><name id="BT1-019_P1.png">DarkTyrannomon/BT1-019_P1</name><set>BT1</set></card>
+		<card><name id="BT1-019_P1.png">DarkTyrannomon/BT1-019_P1</name><set>BT1</set></card>
+		<card><name id="BT1-020_P1.png">Groundramon/BT1-020_P1</name><set>BT1</set></card>
+		<card><name id="BT1-020_P1.png">Groundramon/BT1-020_P1</name><set>BT1</set></card>
+		<card><name id="ST1-16_P2.png">Gaia Force/ST1-16_P2</name><set>ST1</set></card>
+		<card><name id="ST1-16_P2.png">Gaia Force/ST1-16_P2</name><set>ST1</set></card>
+		<card><name id="ST1-16_P2.png">Gaia Force/ST1-16_P2</name><set>ST1</set></card>
+		<card><name id="ST1-16_P2.png">Gaia Force/ST1-16_P2</name><set>ST1</set></card>
+	</superzone>
+	<superzone name="Digi-Egg Deck">
+		<card><name id="ST7-01.png">Gigimon/ST7-01</name><set>ST7</set></card>
+		<card><name id="ST7-01.png">Gigimon/ST7-01</name><set>ST7</set></card>
+		<card><name id="ST7-01.png">Gigimon/ST7-01</name><set>ST7</set></card>
+		<card><name id="ST7-01.png">Gigimon/ST7-01</name><set>ST7</set></card>
+	</superzone>
+</deck>

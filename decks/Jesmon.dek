@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BT6-016.png">Jesmon/BT6-016</name><set>BT6</set></card>
+		<card><name id="BT6-016.png">Jesmon/BT6-016</name><set>BT6</set></card>
+		<card><name id="BT6-016.png">Jesmon/BT6-016</name><set>BT6</set></card>
+		<card><name id="BT6-016.png">Jesmon/BT6-016</name><set>BT6</set></card>
+		<card><name id="BT6-009.png">Huckmon/BT6-009</name><set>BT6</set></card>
+		<card><name id="BT6-009.png">Huckmon/BT6-009</name><set>BT6</set></card>
+		<card><name id="BT6-009.png">Huckmon/BT6-009</name><set>BT6</set></card>
+		<card><name id="BT6-009.png">Huckmon/BT6-009</name><set>BT6</set></card>
+		<card><name id="BT6-082_P1.png">Sistermon Blanc/BT6-082_P1</name><set>BT6</set></card>
+		<card><name id="BT6-082_P1.png">Sistermon Blanc/BT6-082_P1</name><set>BT6</set></card>
+		<card><name id="BT6-082_P1.png">Sistermon Blanc/BT6-082_P1</name><set>BT6</set></card>
+		<card><name id="BT6-082_P1.png">Sistermon Blanc/BT6-082_P1</name><set>BT6</set></card>
+		<card><name id="BT6-084_P1.png">Sistermon Ciel/BT6-084_P1</name><set>BT6</set></card>
+		<card><name id="BT6-084_P1.png">Sistermon Ciel/BT6-084_P1</name><set>BT6</set></card>
+		<card><name id="BT6-084_P1.png">Sistermon Ciel/BT6-084_P1</name><set>BT6</set></card>
+		<card><name id="BT6-011.png">BaoHuckmon/BT6-011</name><set>BT6</set></card>
+		<card><name id="BT6-011.png">BaoHuckmon/BT6-011</name><set>BT6</set></card>
+		<card><name id="BT6-011.png">BaoHuckmon/BT6-011</name><set>BT6</set></card>
+		<card><name id="BT6-011.png">BaoHuckmon/BT6-011</name><set>BT6</set></card>
+		<card><name id="BT6-015.png">SaviorHuckmon/BT6-015</name><set>BT6</set></card>
+		<card><name id="BT6-015.png">SaviorHuckmon/BT6-015</name><set>BT6</set></card>
+		<card><name id="BT6-015.png">SaviorHuckmon/BT6-015</name><set>BT6</set></card>
+		<card><name id="BT6-015.png">SaviorHuckmon/BT6-015</name><set>BT6</set></card>
+		<card><name id="ST7-02.png">Agumon/ST7-02</name><set>ST7</set></card>
+		<card><name id="ST7-02.png">Agumon/ST7-02</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST1-07.png">Greymon/ST1-07</name><set>ST1</set></card>
+		<card><name id="ST1-07.png">Greymon/ST1-07</name><set>ST1</set></card>
+		<card><name id="BT1-019_P1.png">DarkTyrannomon/BT1-019_P1</name><set>BT1</set></card>
+		<card><name id="BT1-019_P1.png">DarkTyrannomon/BT1-019_P1</name><set>BT1</set></card>
+		<card><name id="BT4-017_P1.png">RizeGreymon/BT4-017_P1</name><set>BT4</set></card>
+		<card><name id="BT4-017_P1.png">RizeGreymon/BT4-017_P1</name><set>BT4</set></card>
+		<card><name id="BT1-084_P3.png">Omnimon/BT1-084_P3</name><set>BT1</set></card>
+		<card><name id="BT1-084_P3.png">Omnimon/BT1-084_P3</name><set>BT1</set></card>
+		<card><name id="BT2-020_P1.png">Gallantmon/BT2-020_P1</name><set>BT2</set></card>
+		<card><name id="BT2-020_P1.png">Gallantmon/BT2-020_P1</name><set>BT2</set></card>
+		<card><name id="BT1-085_P1.png">Tai Kamiya/BT1-085_P1</name><set>BT1</set></card>
+		<card><name id="BT1-085_P1.png">Tai Kamiya/BT1-085_P1</name><set>BT1</set></card>
+		<card><name id="BT1-085_P1.png">Tai Kamiya/BT1-085_P1</name><set>BT1</set></card>
+		<card><name id="BT6-093.png">Judgement of the Blade/BT6-093</name><set>BT6</set></card>
+		<card><name id="BT6-093.png">Judgement of the Blade/BT6-093</name><set>BT6</set></card>
+		<card><name id="BT6-093.png">Judgement of the Blade/BT6-093</name><set>BT6</set></card>
+		<card><name id="ST7-12.png">Atomic Blaster/ST7-12</name><set>ST7</set></card>
+		<card><name id="P-035.png">Red Memory Boost!/P-035</name><set>P</set></card>
+		<card><name id="P-035.png">Red Memory Boost!/P-035</name><set>P</set></card>
+		<card><name id="BT6-094.png">Red Reamer/BT6-094</name><set>BT6</set></card>
+		<card><name id="BT6-094.png">Red Reamer/BT6-094</name><set>BT6</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ST3-14.png">Heaven&apos;s Charm/ST3-14</name><set>ST3</set></card>
+		<card><name id="ST3-14.png">Heaven&apos;s Charm/ST3-14</name><set>ST3</set></card>
+		<card><name id="ST3-13.png">Heaven&apos;s Gate/ST3-13</name><set>ST3</set></card>
+		<card><name id="ST3-13.png">Heaven&apos;s Gate/ST3-13</name><set>ST3</set></card>
+		<card><name id="ST3-13.png">Heaven&apos;s Gate/ST3-13</name><set>ST3</set></card>
+		<card><name id="ST3-13.png">Heaven&apos;s Gate/ST3-13</name><set>ST3</set></card>
+		<card><name id="ST3-15.png">Holy Flame/ST3-15</name><set>ST3</set></card>
+		<card><name id="ST3-15.png">Holy Flame/ST3-15</name><set>ST3</set></card>
+		<card><name id="ST3-15.png">Holy Flame/ST3-15</name><set>ST3</set></card>
+		<card><name id="ST3-15.png">Holy Flame/ST3-15</name><set>ST3</set></card>
+		<card><name id="ST3-16.png">Seven Heavens/ST3-16</name><set>ST3</set></card>
+		<card><name id="ST3-16.png">Seven Heavens/ST3-16</name><set>ST3</set></card>
+		<card><name id="ST3-12.png">T.K. Takaishi/ST3-12</name><set>ST3</set></card>
+		<card><name id="ST3-12.png">T.K. Takaishi/ST3-12</name><set>ST3</set></card>
+		<card><name id="ST3-12.png">T.K. Takaishi/ST3-12</name><set>ST3</set></card>
+		<card><name id="ST3-12.png">T.K. Takaishi/ST3-12</name><set>ST3</set></card>
+		<card><name id="ST3-04.png">Patamon/ST3-04</name><set>ST3</set></card>
+		<card><name id="ST3-04.png">Patamon/ST3-04</name><set>ST3</set></card>
+		<card><name id="ST3-04.png">Patamon/ST3-04</name><set>ST3</set></card>
+		<card><name id="ST3-04.png">Patamon/ST3-04</name><set>ST3</set></card>
+		<card><name id="ST3-02.png">Salamon/ST3-02</name><set>ST3</set></card>
+		<card><name id="ST3-02.png">Salamon/ST3-02</name><set>ST3</set></card>
+		<card><name id="ST3-02.png">Salamon/ST3-02</name><set>ST3</set></card>
+		<card><name id="ST3-02.png">Salamon/ST3-02</name><set>ST3</set></card>
+		<card><name id="ST3-03.png">Tapirmon/ST3-03</name><set>ST3</set></card>
+		<card><name id="ST3-03.png">Tapirmon/ST3-03</name><set>ST3</set></card>
+		<card><name id="ST3-03.png">Tapirmon/ST3-03</name><set>ST3</set></card>
+		<card><name id="ST3-03.png">Tapirmon/ST3-03</name><set>ST3</set></card>
+		<card><name id="ST3-05.png">Angemon/ST3-05</name><set>ST3</set></card>
+		<card><name id="ST3-05.png">Angemon/ST3-05</name><set>ST3</set></card>
+		<card><name id="ST3-06.png">Gatomon/ST3-06</name><set>ST3</set></card>
+		<card><name id="ST3-06.png">Gatomon/ST3-06</name><set>ST3</set></card>
+		<card><name id="ST3-06.png">Gatomon/ST3-06</name><set>ST3</set></card>
+		<card><name id="ST3-06.png">Gatomon/ST3-06</name><set>ST3</set></card>
+		<card><name id="ST3-07.png">Unimon/ST3-07</name><set>ST3</set></card>
+		<card><name id="ST3-07.png">Unimon/ST3-07</name><set>ST3</set></card>
+		<card><name id="ST3-07.png">Unimon/ST3-07</name><set>ST3</set></card>
+		<card><name id="ST3-07.png">Unimon/ST3-07</name><set>ST3</set></card>
+		<card><name id="ST3-09.png">Angewomon/ST3-09</name><set>ST3</set></card>
+		<card><name id="ST3-09.png">Angewomon/ST3-09</name><set>ST3</set></card>
+		<card><name id="ST3-09.png">Angewomon/ST3-09</name><set>ST3</set></card>
+		<card><name id="ST3-09.png">Angewomon/ST3-09</name><set>ST3</set></card>
+		<card><name id="ST3-08.png">MagnaAngemon/ST3-08</name><set>ST3</set></card>
+		<card><name id="ST3-08.png">MagnaAngemon/ST3-08</name><set>ST3</set></card>
+		<card><name id="ST3-08.png">MagnaAngemon/ST3-08</name><set>ST3</set></card>
+		<card><name id="ST3-08.png">MagnaAngemon/ST3-08</name><set>ST3</set></card>
+		<card><name id="ST3-11.png">Seraphimon/ST3-11</name><set>ST3</set></card>
+		<card><name id="ST3-11.png">Seraphimon/ST3-11</name><set>ST3</set></card>
+		<card><name id="ST3-10.png">Magnadramon/ST3-10</name><set>ST3</set></card>
+		<card><name id="ST3-10.png">Magnadramon/ST3-10</name><set>ST3</set></card>
+	</superzone>
+	<superzone name="Digi-Egg Deck">
+		<card><name id="ST3-01.png">Tokomon/ST3-01</name><set>ST3</set></card>
+		<card><name id="ST3-01.png">Tokomon/ST3-01</name><set>ST3</set></card>
+		<card><name id="ST3-01.png">Tokomon/ST3-01</name><set>ST3</set></card>
+		<card><name id="ST3-01.png">Tokomon/ST3-01</name><set>ST3</set></card>
+	</superzone>
+</deck>

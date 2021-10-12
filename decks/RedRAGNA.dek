@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BT3-019_P1.png">RagnaLoardmon/BT3-019_P1</name><set>BT3</set></card>
+		<card><name id="BT3-019_P1.png">RagnaLoardmon/BT3-019_P1</name><set>BT3</set></card>
+		<card><name id="BT3-008.png">Zubamon/BT3-008</name><set>BT3</set></card>
+		<card><name id="BT3-008.png">Zubamon/BT3-008</name><set>BT3</set></card>
+		<card><name id="BT3-008.png">Zubamon/BT3-008</name><set>BT3</set></card>
+		<card><name id="BT3-008.png">Zubamon/BT3-008</name><set>BT3</set></card>
+		<card><name id="BT3-010.png">ZubaEagermon/BT3-010</name><set>BT3</set></card>
+		<card><name id="BT3-010.png">ZubaEagermon/BT3-010</name><set>BT3</set></card>
+		<card><name id="BT3-010.png">ZubaEagermon/BT3-010</name><set>BT3</set></card>
+		<card><name id="BT3-010.png">ZubaEagermon/BT3-010</name><set>BT3</set></card>
+		<card><name id="BT3-013.png">Duramon/BT3-013</name><set>BT3</set></card>
+		<card><name id="BT3-013.png">Duramon/BT3-013</name><set>BT3</set></card>
+		<card><name id="BT3-013.png">Duramon/BT3-013</name><set>BT3</set></card>
+		<card><name id="BT3-013.png">Duramon/BT3-013</name><set>BT3</set></card>
+		<card><name id="BT3-072.png">BryweLudramon/BT3-072</name><set>BT3</set></card>
+		<card><name id="BT3-072.png">BryweLudramon/BT3-072</name><set>BT3</set></card>
+		<card><name id="BT3-072.png">BryweLudramon/BT3-072</name><set>BT3</set></card>
+		<card><name id="BT3-072.png">BryweLudramon/BT3-072</name><set>BT3</set></card>
+		<card><name id="BT3-016.png">Durandamon/BT3-016</name><set>BT3</set></card>
+		<card><name id="BT3-016.png">Durandamon/BT3-016</name><set>BT3</set></card>
+		<card><name id="BT3-016.png">Durandamon/BT3-016</name><set>BT3</set></card>
+		<card><name id="BT3-016.png">Durandamon/BT3-016</name><set>BT3</set></card>
+		<card><name id="BT5-094.png">Rowdy Rocker/BT5-094</name><set>BT5</set></card>
+		<card><name id="BT5-094.png">Rowdy Rocker/BT5-094</name><set>BT5</set></card>
+		<card><name id="BT1-085_P1.png">Tai Kamiya/BT1-085_P1</name><set>BT1</set></card>
+		<card><name id="BT1-085_P1.png">Tai Kamiya/BT1-085_P1</name><set>BT1</set></card>
+		<card><name id="BT1-085_P1.png">Tai Kamiya/BT1-085_P1</name><set>BT1</set></card>
+		<card><name id="BT1-085_P1.png">Tai Kamiya/BT1-085_P1</name><set>BT1</set></card>
+		<card><name id="ST7-04.png">Biyomon/ST7-04</name><set>ST7</set></card>
+		<card><name id="ST7-04.png">Biyomon/ST7-04</name><set>ST7</set></card>
+		<card><name id="ST7-04.png">Biyomon/ST7-04</name><set>ST7</set></card>
+		<card><name id="ST7-04.png">Biyomon/ST7-04</name><set>ST7</set></card>
+		<card><name id="ST1-07_P1.png">Greymon/ST1-07_P1</name><set>ST1</set></card>
+		<card><name id="ST1-07_P1.png">Greymon/ST1-07_P1</name><set>ST1</set></card>
+		<card><name id="ST1-07_P1.png">Greymon/ST1-07_P1</name><set>ST1</set></card>
+		<card><name id="ST1-07_P1.png">Greymon/ST1-07_P1</name><set>ST1</set></card>
+		<card><name id="ST1-06.png">Coredramon/ST1-06</name><set>ST1</set></card>
+		<card><name id="ST1-06.png">Coredramon/ST1-06</name><set>ST1</set></card>
+		<card><name id="BT4-015.png">Volcdramon/BT4-015</name><set>BT4</set></card>
+		<card><name id="BT4-015.png">Volcdramon/BT4-015</name><set>BT4</set></card>
+		<card><name id="BT4-015.png">Volcdramon/BT4-015</name><set>BT4</set></card>
+		<card><name id="BT4-015.png">Volcdramon/BT4-015</name><set>BT4</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="P-035.png">Red Memory Boost!/P-035</name><set>P</set></card>
+		<card><name id="P-035.png">Red Memory Boost!/P-035</name><set>P</set></card>
+		<card><name id="P-035.png">Red Memory Boost!/P-035</name><set>P</set></card>
+		<card><name id="P-035.png">Red Memory Boost!/P-035</name><set>P</set></card>
+	</superzone>
+	<superzone name="Digi-Egg Deck">
+		<card><name id="ST1-01.png">Koromon/ST1-01</name><set>ST1</set></card>
+		<card><name id="ST1-01.png">Koromon/ST1-01</name><set>ST1</set></card>
+		<card><name id="ST1-01.png">Koromon/ST1-01</name><set>ST1</set></card>
+		<card><name id="ST1-01.png">Koromon/ST1-01</name><set>ST1</set></card>
+		<card><name id="BT4-001.png">Sakuttomon/BT4-001</name><set>BT4</set></card>
+	</superzone>
+</deck>

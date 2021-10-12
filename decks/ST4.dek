@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ST4-16.png">Electro Shocker/ST4-16</name><set>ST4</set></card>
+		<card><name id="ST4-16.png">Electro Shocker/ST4-16</name><set>ST4</set></card>
+		<card><name id="ST4-14.png">Izzy Izumi/ST4-14</name><set>ST4</set></card>
+		<card><name id="ST4-14.png">Izzy Izumi/ST4-14</name><set>ST4</set></card>
+		<card><name id="ST4-14.png">Izzy Izumi/ST4-14</name><set>ST4</set></card>
+		<card><name id="ST4-14.png">Izzy Izumi/ST4-14</name><set>ST4</set></card>
+		<card><name id="ST4-15.png">Needle Spray/ST4-15</name><set>ST4</set></card>
+		<card><name id="ST4-15.png">Needle Spray/ST4-15</name><set>ST4</set></card>
+		<card><name id="ST4-15.png">Needle Spray/ST4-15</name><set>ST4</set></card>
+		<card><name id="ST4-15.png">Needle Spray/ST4-15</name><set>ST4</set></card>
+		<card><name id="ST4-02.png">Floramon/ST4-02</name><set>ST4</set></card>
+		<card><name id="ST4-02.png">Floramon/ST4-02</name><set>ST4</set></card>
+		<card><name id="ST4-02.png">Floramon/ST4-02</name><set>ST4</set></card>
+		<card><name id="ST4-02.png">Floramon/ST4-02</name><set>ST4</set></card>
+		<card><name id="ST4-05.png">Kunemon/ST4-05</name><set>ST4</set></card>
+		<card><name id="ST4-05.png">Kunemon/ST4-05</name><set>ST4</set></card>
+		<card><name id="ST4-05.png">Kunemon/ST4-05</name><set>ST4</set></card>
+		<card><name id="ST4-05.png">Kunemon/ST4-05</name><set>ST4</set></card>
+		<card><name id="ST4-04.png">Palmon/ST4-04</name><set>ST4</set></card>
+		<card><name id="ST4-04.png">Palmon/ST4-04</name><set>ST4</set></card>
+		<card><name id="ST4-04.png">Palmon/ST4-04</name><set>ST4</set></card>
+		<card><name id="ST4-04.png">Palmon/ST4-04</name><set>ST4</set></card>
+		<card><name id="ST4-03.png">Tentomon/ST4-03</name><set>ST4</set></card>
+		<card><name id="ST4-03.png">Tentomon/ST4-03</name><set>ST4</set></card>
+		<card><name id="ST4-03.png">Tentomon/ST4-03</name><set>ST4</set></card>
+		<card><name id="ST4-03.png">Tentomon/ST4-03</name><set>ST4</set></card>
+		<card><name id="ST4-08.png">Kabuterimon/ST4-08</name><set>ST4</set></card>
+		<card><name id="ST4-08.png">Kabuterimon/ST4-08</name><set>ST4</set></card>
+		<card><name id="ST4-07.png">Kuwagamon/ST4-07</name><set>ST4</set></card>
+		<card><name id="ST4-07.png">Kuwagamon/ST4-07</name><set>ST4</set></card>
+		<card><name id="ST4-07.png">Kuwagamon/ST4-07</name><set>ST4</set></card>
+		<card><name id="ST4-07.png">Kuwagamon/ST4-07</name><set>ST4</set></card>
+		<card><name id="ST4-06.png">Togemon/ST4-06</name><set>ST4</set></card>
+		<card><name id="ST4-06.png">Togemon/ST4-06</name><set>ST4</set></card>
+		<card><name id="ST4-06.png">Togemon/ST4-06</name><set>ST4</set></card>
+		<card><name id="ST4-06.png">Togemon/ST4-06</name><set>ST4</set></card>
+		<card><name id="ST4-10.png">Lillymon/ST4-10</name><set>ST4</set></card>
+		<card><name id="ST4-10.png">Lillymon/ST4-10</name><set>ST4</set></card>
+		<card><name id="ST4-10.png">Lillymon/ST4-10</name><set>ST4</set></card>
+		<card><name id="ST4-10.png">Lillymon/ST4-10</name><set>ST4</set></card>
+		<card><name id="ST4-11.png">MegaKabuterimon/ST4-11</name><set>ST4</set></card>
+		<card><name id="ST4-11.png">MegaKabuterimon/ST4-11</name><set>ST4</set></card>
+		<card><name id="ST4-09.png">Okuwamon/ST4-09</name><set>ST4</set></card>
+		<card><name id="ST4-09.png">Okuwamon/ST4-09</name><set>ST4</set></card>
+		<card><name id="ST4-09.png">Okuwamon/ST4-09</name><set>ST4</set></card>
+		<card><name id="ST4-09.png">Okuwamon/ST4-09</name><set>ST4</set></card>
+		<card><name id="ST4-13.png">HerculesKabuterimon/ST4-13</name><set>ST4</set></card>
+		<card><name id="ST4-13.png">HerculesKabuterimon/ST4-13</name><set>ST4</set></card>
+		<card><name id="ST4-12.png">Rosemon/ST4-12</name><set>ST4</set></card>
+		<card><name id="ST4-12.png">Rosemon/ST4-12</name><set>ST4</set></card>
+	</superzone>
+	<superzone name="Digi-Egg Deck">
+		<card><name id="ST4-01.png">Motimon/ST4-01</name><set>ST4</set></card>
+		<card><name id="ST4-01.png">Motimon/ST4-01</name><set>ST4</set></card>
+		<card><name id="ST4-01.png">Motimon/ST4-01</name><set>ST4</set></card>
+		<card><name id="ST4-01.png">Motimon/ST4-01</name><set>ST4</set></card>
+	</superzone>
+</deck>

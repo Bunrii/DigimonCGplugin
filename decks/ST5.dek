@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ST5-16.png">Dark Side Attack/ST5-16</name><set>ST5</set></card>
+		<card><name id="ST5-16.png">Dark Side Attack/ST5-16</name><set>ST5</set></card>
+		<card><name id="ST5-15.png">Laser Eye/ST5-15</name><set>ST5</set></card>
+		<card><name id="ST5-15.png">Laser Eye/ST5-15</name><set>ST5</set></card>
+		<card><name id="ST5-15.png">Laser Eye/ST5-15</name><set>ST5</set></card>
+		<card><name id="ST5-15.png">Laser Eye/ST5-15</name><set>ST5</set></card>
+		<card><name id="ST5-14.png">Tai Kamiya/ST5-14</name><set>ST5</set></card>
+		<card><name id="ST5-14.png">Tai Kamiya/ST5-14</name><set>ST5</set></card>
+		<card><name id="ST5-14.png">Tai Kamiya/ST5-14</name><set>ST5</set></card>
+		<card><name id="ST5-14.png">Tai Kamiya/ST5-14</name><set>ST5</set></card>
+		<card><name id="ST5-03.png">Agumon/ST5-03</name><set>ST5</set></card>
+		<card><name id="ST5-03.png">Agumon/ST5-03</name><set>ST5</set></card>
+		<card><name id="ST5-03.png">Agumon/ST5-03</name><set>ST5</set></card>
+		<card><name id="ST5-03.png">Agumon/ST5-03</name><set>ST5</set></card>
+		<card><name id="ST5-05.png">Commandramon/ST5-05</name><set>ST5</set></card>
+		<card><name id="ST5-05.png">Commandramon/ST5-05</name><set>ST5</set></card>
+		<card><name id="ST5-05.png">Commandramon/ST5-05</name><set>ST5</set></card>
+		<card><name id="ST5-05.png">Commandramon/ST5-05</name><set>ST5</set></card>
+		<card><name id="ST5-02.png">Jazamon/ST5-02</name><set>ST5</set></card>
+		<card><name id="ST5-02.png">Jazamon/ST5-02</name><set>ST5</set></card>
+		<card><name id="ST5-02.png">Jazamon/ST5-02</name><set>ST5</set></card>
+		<card><name id="ST5-02.png">Jazamon/ST5-02</name><set>ST5</set></card>
+		<card><name id="ST5-04.png">ToyAgumon/ST5-04</name><set>ST5</set></card>
+		<card><name id="ST5-04.png">ToyAgumon/ST5-04</name><set>ST5</set></card>
+		<card><name id="ST5-04.png">ToyAgumon/ST5-04</name><set>ST5</set></card>
+		<card><name id="ST5-04.png">ToyAgumon/ST5-04</name><set>ST5</set></card>
+		<card><name id="ST5-08.png">DarkTyrannomon/ST5-08</name><set>ST5</set></card>
+		<card><name id="ST5-08.png">DarkTyrannomon/ST5-08</name><set>ST5</set></card>
+		<card><name id="ST5-06.png">Greymon/ST5-06</name><set>ST5</set></card>
+		<card><name id="ST5-06.png">Greymon/ST5-06</name><set>ST5</set></card>
+		<card><name id="ST5-06.png">Greymon/ST5-06</name><set>ST5</set></card>
+		<card><name id="ST5-06.png">Greymon/ST5-06</name><set>ST5</set></card>
+		<card><name id="ST5-07.png">Jazardmon/ST5-07</name><set>ST5</set></card>
+		<card><name id="ST5-07.png">Jazardmon/ST5-07</name><set>ST5</set></card>
+		<card><name id="ST5-07.png">Jazardmon/ST5-07</name><set>ST5</set></card>
+		<card><name id="ST5-07.png">Jazardmon/ST5-07</name><set>ST5</set></card>
+		<card><name id="ST5-11.png">Megadramon/ST5-11</name><set>ST5</set></card>
+		<card><name id="ST5-11.png">Megadramon/ST5-11</name><set>ST5</set></card>
+		<card><name id="ST5-09.png">MetalGreymon/ST5-09</name><set>ST5</set></card>
+		<card><name id="ST5-09.png">MetalGreymon/ST5-09</name><set>ST5</set></card>
+		<card><name id="ST5-09.png">MetalGreymon/ST5-09</name><set>ST5</set></card>
+		<card><name id="ST5-09.png">MetalGreymon/ST5-09</name><set>ST5</set></card>
+		<card><name id="ST5-10.png">MetalTyrannomon/ST5-10</name><set>ST5</set></card>
+		<card><name id="ST5-10.png">MetalTyrannomon/ST5-10</name><set>ST5</set></card>
+		<card><name id="ST5-10.png">MetalTyrannomon/ST5-10</name><set>ST5</set></card>
+		<card><name id="ST5-10.png">MetalTyrannomon/ST5-10</name><set>ST5</set></card>
+		<card><name id="ST5-13.png">BlitzGreymon/ST5-13</name><set>ST5</set></card>
+		<card><name id="ST5-13.png">BlitzGreymon/ST5-13</name><set>ST5</set></card>
+		<card><name id="ST5-12.png">Machinedramon/ST5-12</name><set>ST5</set></card>
+		<card><name id="ST5-12.png">Machinedramon/ST5-12</name><set>ST5</set></card>
+	</superzone>
+	<superzone name="Digi-Egg Deck">
+		<card><name id="ST5-01.png">Kapurimon/ST5-01</name><set>ST5</set></card>
+		<card><name id="ST5-01.png">Kapurimon/ST5-01</name><set>ST5</set></card>
+		<card><name id="ST5-01.png">Kapurimon/ST5-01</name><set>ST5</set></card>
+		<card><name id="ST5-01.png">Kapurimon/ST5-01</name><set>ST5</set></card>
+	</superzone>
+</deck>

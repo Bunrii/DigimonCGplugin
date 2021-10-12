@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ST6-15.png">Death Claw/ST6-15</name><set>ST6</set></card>
+		<card><name id="ST6-15.png">Death Claw/ST6-15</name><set>ST6</set></card>
+		<card><name id="ST6-15.png">Death Claw/ST6-15</name><set>ST6</set></card>
+		<card><name id="ST6-15.png">Death Claw/ST6-15</name><set>ST6</set></card>
+		<card><name id="ST6-14.png">Matt Ishida/ST6-14</name><set>ST6</set></card>
+		<card><name id="ST6-14.png">Matt Ishida/ST6-14</name><set>ST6</set></card>
+		<card><name id="ST6-14.png">Matt Ishida/ST6-14</name><set>ST6</set></card>
+		<card><name id="ST6-14.png">Matt Ishida/ST6-14</name><set>ST6</set></card>
+		<card><name id="ST6-16.png">Nail Bone/ST6-16</name><set>ST6</set></card>
+		<card><name id="ST6-16.png">Nail Bone/ST6-16</name><set>ST6</set></card>
+		<card><name id="ST6-02.png">DemiDevimon/ST6-02</name><set>ST6</set></card>
+		<card><name id="ST6-02.png">DemiDevimon/ST6-02</name><set>ST6</set></card>
+		<card><name id="ST6-02.png">DemiDevimon/ST6-02</name><set>ST6</set></card>
+		<card><name id="ST6-02.png">DemiDevimon/ST6-02</name><set>ST6</set></card>
+		<card><name id="ST6-04.png">Dracmon/ST6-04</name><set>ST6</set></card>
+		<card><name id="ST6-04.png">Dracmon/ST6-04</name><set>ST6</set></card>
+		<card><name id="ST6-04.png">Dracmon/ST6-04</name><set>ST6</set></card>
+		<card><name id="ST6-04.png">Dracmon/ST6-04</name><set>ST6</set></card>
+		<card><name id="ST6-05.png">Elecmon/ST6-05</name><set>ST6</set></card>
+		<card><name id="ST6-05.png">Elecmon/ST6-05</name><set>ST6</set></card>
+		<card><name id="ST6-05.png">Elecmon/ST6-05</name><set>ST6</set></card>
+		<card><name id="ST6-05.png">Elecmon/ST6-05</name><set>ST6</set></card>
+		<card><name id="ST6-03.png">Gabumon/ST6-03</name><set>ST6</set></card>
+		<card><name id="ST6-03.png">Gabumon/ST6-03</name><set>ST6</set></card>
+		<card><name id="ST6-03.png">Gabumon/ST6-03</name><set>ST6</set></card>
+		<card><name id="ST6-03.png">Gabumon/ST6-03</name><set>ST6</set></card>
+		<card><name id="ST6-08.png">Devimon/ST6-08</name><set>ST6</set></card>
+		<card><name id="ST6-08.png">Devimon/ST6-08</name><set>ST6</set></card>
+		<card><name id="ST6-06.png">Garurumon/ST6-06</name><set>ST6</set></card>
+		<card><name id="ST6-06.png">Garurumon/ST6-06</name><set>ST6</set></card>
+		<card><name id="ST6-06.png">Garurumon/ST6-06</name><set>ST6</set></card>
+		<card><name id="ST6-06.png">Garurumon/ST6-06</name><set>ST6</set></card>
+		<card><name id="ST6-07.png">Youkomon/ST6-07</name><set>ST6</set></card>
+		<card><name id="ST6-07.png">Youkomon/ST6-07</name><set>ST6</set></card>
+		<card><name id="ST6-07.png">Youkomon/ST6-07</name><set>ST6</set></card>
+		<card><name id="ST6-07.png">Youkomon/ST6-07</name><set>ST6</set></card>
+		<card><name id="ST6-09.png">Kyukimon/ST6-09</name><set>ST6</set></card>
+		<card><name id="ST6-09.png">Kyukimon/ST6-09</name><set>ST6</set></card>
+		<card><name id="ST6-09.png">Kyukimon/ST6-09</name><set>ST6</set></card>
+		<card><name id="ST6-09.png">Kyukimon/ST6-09</name><set>ST6</set></card>
+		<card><name id="ST6-10.png">SkullSatamon/ST6-10</name><set>ST6</set></card>
+		<card><name id="ST6-10.png">SkullSatamon/ST6-10</name><set>ST6</set></card>
+		<card><name id="ST6-10.png">SkullSatamon/ST6-10</name><set>ST6</set></card>
+		<card><name id="ST6-10.png">SkullSatamon/ST6-10</name><set>ST6</set></card>
+		<card><name id="ST6-11.png">WereGarurumon/ST6-11</name><set>ST6</set></card>
+		<card><name id="ST6-11.png">WereGarurumon/ST6-11</name><set>ST6</set></card>
+		<card><name id="ST6-13.png">CresGarurumon/ST6-13</name><set>ST6</set></card>
+		<card><name id="ST6-13.png">CresGarurumon/ST6-13</name><set>ST6</set></card>
+		<card><name id="ST6-12.png">VenomMyotismon/ST6-12</name><set>ST6</set></card>
+		<card><name id="ST6-12.png">VenomMyotismon/ST6-12</name><set>ST6</set></card>
+	</superzone>
+	<superzone name="Digi-Egg Deck">
+		<card><name id="ST6-01.png">Pagumon/ST6-01</name><set>ST6</set></card>
+		<card><name id="ST6-01.png">Pagumon/ST6-01</name><set>ST6</set></card>
+		<card><name id="ST6-01.png">Pagumon/ST6-01</name><set>ST6</set></card>
+		<card><name id="ST6-01.png">Pagumon/ST6-01</name><set>ST6</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,60 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BT5-106.png">Demonic Disaster/BT5-106</name><set>BT5</set></card>
+		<card><name id="BT5-106.png">Demonic Disaster/BT5-106</name><set>BT5</set></card>
+		<card><name id="BT5-106.png">Demonic Disaster/BT5-106</name><set>BT5</set></card>
+		<card><name id="BT5-106.png">Demonic Disaster/BT5-106</name><set>BT5</set></card>
+		<card><name id="BT5-107.png">Revive From the Darkness!/BT5-107</name><set>BT5</set></card>
+		<card><name id="BT5-107.png">Revive From the Darkness!/BT5-107</name><set>BT5</set></card>
+		<card><name id="BT5-071.png">Guilmon/BT5-071</name><set>BT5</set></card>
+		<card><name id="BT5-071.png">Guilmon/BT5-071</name><set>BT5</set></card>
+		<card><name id="BT5-071.png">Guilmon/BT5-071</name><set>BT5</set></card>
+		<card><name id="BT5-071.png">Guilmon/BT5-071</name><set>BT5</set></card>
+		<card><name id="BT5-072.png">Fake Agumon Expert/BT5-072</name><set>BT5</set></card>
+		<card><name id="BT5-072.png">Fake Agumon Expert/BT5-072</name><set>BT5</set></card>
+		<card><name id="BT5-072.png">Fake Agumon Expert/BT5-072</name><set>BT5</set></card>
+		<card><name id="BT5-072.png">Fake Agumon Expert/BT5-072</name><set>BT5</set></card>
+		<card><name id="BT5-076.png">BlackGrowlmon/BT5-076</name><set>BT5</set></card>
+		<card><name id="BT5-076.png">BlackGrowlmon/BT5-076</name><set>BT5</set></card>
+		<card><name id="BT5-076.png">BlackGrowlmon/BT5-076</name><set>BT5</set></card>
+		<card><name id="BT5-076.png">BlackGrowlmon/BT5-076</name><set>BT5</set></card>
+		<card><name id="BT5-079.png">BlackWarGrowlmon/BT5-079</name><set>BT5</set></card>
+		<card><name id="BT5-079.png">BlackWarGrowlmon/BT5-079</name><set>BT5</set></card>
+		<card><name id="BT5-079.png">BlackWarGrowlmon/BT5-079</name><set>BT5</set></card>
+		<card><name id="BT5-079.png">BlackWarGrowlmon/BT5-079</name><set>BT5</set></card>
+		<card><name id="BT5-078.png">Jokermon/BT5-078</name><set>BT5</set></card>
+		<card><name id="BT5-078.png">Jokermon/BT5-078</name><set>BT5</set></card>
+		<card><name id="BT5-078.png">Jokermon/BT5-078</name><set>BT5</set></card>
+		<card><name id="BT5-078.png">Jokermon/BT5-078</name><set>BT5</set></card>
+		<card><name id="BT5-081.png">ChaosGallantmon/BT5-081</name><set>BT5</set></card>
+		<card><name id="BT5-081.png">ChaosGallantmon/BT5-081</name><set>BT5</set></card>
+		<card><name id="BT5-081.png">ChaosGallantmon/BT5-081</name><set>BT5</set></card>
+		<card><name id="BT5-081.png">ChaosGallantmon/BT5-081</name><set>BT5</set></card>
+		<card><name id="BT5-083.png">Megidramon/BT5-083</name><set>BT5</set></card>
+		<card><name id="BT5-083.png">Megidramon/BT5-083</name><set>BT5</set></card>
+		<card><name id="BT5-091_P1.png">Takumi Aiba/BT5-091_P1</name><set>BT5</set></card>
+		<card><name id="BT5-091_P1.png">Takumi Aiba/BT5-091_P1</name><set>BT5</set></card>
+		<card><name id="BT2-069_P1.png">Gabumon/BT2-069_P1</name><set>BT2</set></card>
+		<card><name id="BT2-069_P1.png">Gabumon/BT2-069_P1</name><set>BT2</set></card>
+		<card><name id="BT2-069_P1.png">Gabumon/BT2-069_P1</name><set>BT2</set></card>
+		<card><name id="BT2-069_P1.png">Gabumon/BT2-069_P1</name><set>BT2</set></card>
+		<card><name id="BT2-072.png">Vilemon/BT2-072</name><set>BT2</set></card>
+		<card><name id="BT2-072.png">Vilemon/BT2-072</name><set>BT2</set></card>
+		<card><name id="BT2-072.png">Vilemon/BT2-072</name><set>BT2</set></card>
+		<card><name id="BT2-072.png">Vilemon/BT2-072</name><set>BT2</set></card>
+		<card><name id="BT2-070.png">Tapirmon/BT2-070</name><set>BT2</set></card>
+		<card><name id="BT2-070.png">Tapirmon/BT2-070</name><set>BT2</set></card>
+		<card><name id="BT2-070.png">Tapirmon/BT2-070</name><set>BT2</set></card>
+		<card><name id="BT2-070.png">Tapirmon/BT2-070</name><set>BT2</set></card>
+	</superzone>
+	<superzone name="Digi-Egg Deck">
+		<card><name id="BT5-006.png">Gigimon/BT5-006</name><set>BT5</set></card>
+		<card><name id="BT5-006.png">Gigimon/BT5-006</name><set>BT5</set></card>
+		<card><name id="BT5-006.png">Gigimon/BT5-006</name><set>BT5</set></card>
+		<card><name id="BT5-006.png">Gigimon/BT5-006</name><set>BT5</set></card>
+		<card><name id="BT2-008.png">Yaamon/BT2-008</name><set>BT2</set></card>
+	</superzone>
+</deck>

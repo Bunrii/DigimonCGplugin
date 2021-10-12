@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BT6-018.png">Agumon - Bond of Bravery/BT6-018</name><set>BT6</set></card>
+		<card><name id="BT6-018.png">Agumon - Bond of Bravery/BT6-018</name><set>BT6</set></card>
+		<card><name id="BT2-020_P1.png">Gallantmon/BT2-020_P1</name><set>BT2</set></card>
+		<card><name id="BT2-020_P1.png">Gallantmon/BT2-020_P1</name><set>BT2</set></card>
+		<card><name id="BT2-020_P1.png">Gallantmon/BT2-020_P1</name><set>BT2</set></card>
+		<card><name id="BT2-020_P1.png">Gallantmon/BT2-020_P1</name><set>BT2</set></card>
+		<card><name id="BT5-083.png">Megidramon/BT5-083</name><set>BT5</set></card>
+		<card><name id="BT5-083.png">Megidramon/BT5-083</name><set>BT5</set></card>
+		<card><name id="BT6-087.png">Tai Kamiya/BT6-087</name><set>BT6</set></card>
+		<card><name id="BT6-087.png">Tai Kamiya/BT6-087</name><set>BT6</set></card>
+		<card><name id="BT6-087.png">Tai Kamiya/BT6-087</name><set>BT6</set></card>
+		<card><name id="BT6-087.png">Tai Kamiya/BT6-087</name><set>BT6</set></card>
+		<card><name id="ST7-11.png">Lightning Joust/ST7-11</name><set>ST7</set></card>
+		<card><name id="ST7-11.png">Lightning Joust/ST7-11</name><set>ST7</set></card>
+		<card><name id="P-035.png">Red Memory Boost!/P-035</name><set>P</set></card>
+		<card><name id="P-035.png">Red Memory Boost!/P-035</name><set>P</set></card>
+		<card><name id="P-035.png">Red Memory Boost!/P-035</name><set>P</set></card>
+		<card><name id="P-035.png">Red Memory Boost!/P-035</name><set>P</set></card>
+		<card><name id="BT6-007_P1.png">Agumon/BT6-007_P1</name><set>BT6</set></card>
+		<card><name id="BT6-007_P1.png">Agumon/BT6-007_P1</name><set>BT6</set></card>
+		<card><name id="BT6-007_P1.png">Agumon/BT6-007_P1</name><set>BT6</set></card>
+		<card><name id="BT6-007_P1.png">Agumon/BT6-007_P1</name><set>BT6</set></card>
+		<card><name id="BT1-010_P1.png">Agumon/BT1-010_P1</name><set>BT1</set></card>
+		<card><name id="BT1-010_P1.png">Agumon/BT1-010_P1</name><set>BT1</set></card>
+		<card><name id="BT1-010_P1.png">Agumon/BT1-010_P1</name><set>BT1</set></card>
+		<card><name id="BT1-010_P1.png">Agumon/BT1-010_P1</name><set>BT1</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="ST7-03.png">Guilmon/ST7-03</name><set>ST7</set></card>
+		<card><name id="BT2-009.png">Guilmon/BT2-009</name><set>BT2</set></card>
+		<card><name id="BT2-009.png">Guilmon/BT2-009</name><set>BT2</set></card>
+		<card><name id="ST7-05.png">Growlmon/ST7-05</name><set>ST7</set></card>
+		<card><name id="ST7-05.png">Growlmon/ST7-05</name><set>ST7</set></card>
+		<card><name id="ST7-05.png">Growlmon/ST7-05</name><set>ST7</set></card>
+		<card><name id="ST7-05.png">Growlmon/ST7-05</name><set>ST7</set></card>
+		<card><name id="ST1-06.png">Coredramon/ST1-06</name><set>ST1</set></card>
+		<card><name id="ST1-06.png">Coredramon/ST1-06</name><set>ST1</set></card>
+		<card><name id="ST1-06.png">Coredramon/ST1-06</name><set>ST1</set></card>
+		<card><name id="ST1-06.png">Coredramon/ST1-06</name><set>ST1</set></card>
+		<card><name id="BT5-012.png">Monochromon/BT5-012</name><set>BT5</set></card>
+		<card><name id="BT5-012.png">Monochromon/BT5-012</name><set>BT5</set></card>
+		<card><name id="ST1-09.png">MetalGreymon/ST1-09</name><set>ST1</set></card>
+		<card><name id="ST1-09.png">MetalGreymon/ST1-09</name><set>ST1</set></card>
+		<card><name id="ST1-09.png">MetalGreymon/ST1-09</name><set>ST1</set></card>
+		<card><name id="ST1-09.png">MetalGreymon/ST1-09</name><set>ST1</set></card>
+		<card><name id="BT2-017_P1.png">WarGrowlmon/BT2-017_P1</name><set>BT2</set></card>
+		<card><name id="BT2-017_P1.png">WarGrowlmon/BT2-017_P1</name><set>BT2</set></card>
+		<card><name id="ST7-08.png">WarGrowlmon/ST7-08</name><set>ST7</set></card>
+		<card><name id="ST7-08.png">WarGrowlmon/ST7-08</name><set>ST7</set></card>
+	</superzone>
+</deck>

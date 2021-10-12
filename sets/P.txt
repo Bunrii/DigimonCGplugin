@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Category	Level	Color	PlayCost	DigivolutionCost	DP	Attribute	Type
+Name	Set	ImageFile	Category	Level	Color	PlayCost	DVCost	DP	Attribute	Type
 Guilmon/P-041	P	P-041.png	Digimon	3	Red	3	0	2000	Virus	Reptile
 Gabumon/P-042	P	P-042.png	Digimon	3	Blue	3	0	2000	Data	Reptile
 Kudamon/P-043	P	P-043.png	Digimon	3	Yellow	3	0	1000	Vaccine	Holy Beast
@@ -11,8 +11,8 @@ Yellow Memory Boost!/P-037	P	P-037.png	Option	-	Yellow	3	-	-	-	-
 Green Memory Boost!/P-038	P	P-038.png	Option	-	Green	3	-	-	-	-
 Black Memory Boost!/P-039	P	P-039.png	Option	-	Black	3	-	-	-	-
 Purple Memory Boost!/P-040	P	P-040.png	Option	-	Purple	3	-	-	-	-
-Koromon/BT5-001	BT5	BT5-001_P1.png	Digi-Egg	2	Red	-	-	-	-	Lesser
-Greymon/BT5-010	BT5	BT5-010_P1.png	Digimon	4	Red	5	2	5000	Vaccine	Dinosaur
+Koromon/BT5-001_P1	BT5	BT5-001_P1.png	Digi-Egg	2	Red	-	-	-	-	Lesser
+Greymon/BT5-010_P1	BT5	BT5-010_P1.png	Digimon	4	Red	5	2	5000	Vaccine	Dinosaur
 GranKuwagamon/P-025	P	P-025.png	Digimon	6	Green	11	3	11000	Free	Insectoid
 BlackWarGreymon/P-026	P	P-026.png	Digimon	6	Black	11	3	11000	Virus	Dragonkin
 MetalGarurumon/P-027	P	P-027.png	Digimon	6	Purple	11	3	11000	Virus	Cyborg
@@ -23,7 +23,7 @@ Palmon/P-032	P	P-032.png	Digimon	3	Green	3	0	2000	Data	Vegetation
 Sunarizamon/P-033	P	P-033.png	Digimon	3	Black	3	0	2000	Virus	Reptile
 DemiDevimon/P-034	P	P-034.png	Digimon	3	Purple	3	0	2000	Virus	Evil
 Pulsemon/P-028	P	P-028.png	Digimon	3	Yellow	3	0	2000	Vaccine	Beastkin
-Pulsemon/P-028	P	P-028_P1.png	Digimon	3	Yellow	3	0	2000	Vaccine	Beastkin
+Pulsemon/P-028_P1	P	P-028_P1.png	Digimon	3	Yellow	3	0	2000	Vaccine	Beastkin
 A New World/P-021	P	P-021.png	Option	-	Green	-	-	-	-	-
 DNA Digivolution - Hearts United/P-022	P	P-022.png	Option	-	Blue	-	-	-	-	-
 Patamon's Confession/P-023	P	P-023.png	Option	-	Yellow	-	-	-	-	-
@@ -36,9 +36,9 @@ Patamon/P-005	P	P-005.png	Digimon	3	Yellow	4	0	2000	Data	Mammal
 Gatomon/P-006	P	P-006.png	Digimon	4	Yellow	4	2	4000	Vaccine	Holy Beast
 Garurumon/P-007	P	P-007.png	Digimon	4	Blue	4	2	4000	Vaccine	Beast
 WereGarurumon/P-008	P	P-008.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
-WereGarurumon/P-008	P	P-008_P1.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
-WereGarurumon/P-008	P	P-008_P2.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
-WereGarurumon/P-008	P	P-008_P3.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
+WereGarurumon/P-008_P1	P	P-008_P1.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
+WereGarurumon/P-008_P2	P	P-008_P2.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
+WereGarurumon/P-008_P3	P	P-008_P3.png	Digimon	5	Blue	7	3	6000	Vaccine	Beastkin
 Agumon/P-009	P	P-009.png	Digimon	3	Red	3	0	2000	Vaccine	Reptile
 Greymon/P-010	P	P-010.png	Digimon	4	Red	5	2	5000	Vaccine	Dinosaur
 Veedramon Zero/P-011	P	P-011.png	Digimon	4	Blue	6	2	5000	Vaccine	Mythical Dragon

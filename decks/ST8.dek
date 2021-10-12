@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ST8-12.png">V-Wing Blade/ST8-12</name><set>ST8</set></card>
+		<card><name id="ST8-12.png">V-Wing Blade/ST8-12</name><set>ST8</set></card>
+		<card><name id="ST8-12.png">V-Wing Blade/ST8-12</name><set>ST8</set></card>
+		<card><name id="ST8-12.png">V-Wing Blade/ST8-12</name><set>ST8</set></card>
+		<card><name id="ST8-11.png">Victory Sword/ST8-11</name><set>ST8</set></card>
+		<card><name id="ST8-11.png">Victory Sword/ST8-11</name><set>ST8</set></card>
+		<card><name id="ST8-11.png">Victory Sword/ST8-11</name><set>ST8</set></card>
+		<card><name id="ST8-11.png">Victory Sword/ST8-11</name><set>ST8</set></card>
+		<card><name id="ST8-03.png">Dracomon/ST8-03</name><set>ST8</set></card>
+		<card><name id="ST8-03.png">Dracomon/ST8-03</name><set>ST8</set></card>
+		<card><name id="ST8-03.png">Dracomon/ST8-03</name><set>ST8</set></card>
+		<card><name id="ST8-03.png">Dracomon/ST8-03</name><set>ST8</set></card>
+		<card><name id="ST8-02.png">Gabumon/ST8-02</name><set>ST8</set></card>
+		<card><name id="ST8-02.png">Gabumon/ST8-02</name><set>ST8</set></card>
+		<card><name id="ST8-02.png">Gabumon/ST8-02</name><set>ST8</set></card>
+		<card><name id="ST8-02.png">Gabumon/ST8-02</name><set>ST8</set></card>
+		<card><name id="ST8-04.png">Veemon/ST8-04</name><set>ST8</set></card>
+		<card><name id="ST8-04.png">Veemon/ST8-04</name><set>ST8</set></card>
+		<card><name id="ST8-06.png">Coredramon/ST8-06</name><set>ST8</set></card>
+		<card><name id="ST8-06.png">Coredramon/ST8-06</name><set>ST8</set></card>
+		<card><name id="ST8-06.png">Coredramon/ST8-06</name><set>ST8</set></card>
+		<card><name id="ST8-06.png">Coredramon/ST8-06</name><set>ST8</set></card>
+		<card><name id="ST8-05.png">Veedramon/ST8-05</name><set>ST8</set></card>
+		<card><name id="ST8-05.png">Veedramon/ST8-05</name><set>ST8</set></card>
+		<card><name id="ST8-08.png">AeroVeedramon/ST8-08</name><set>ST8</set></card>
+		<card><name id="ST8-08.png">AeroVeedramon/ST8-08</name><set>ST8</set></card>
+		<card><name id="ST8-08.png">AeroVeedramon/ST8-08</name><set>ST8</set></card>
+		<card><name id="ST8-08.png">AeroVeedramon/ST8-08</name><set>ST8</set></card>
+		<card><name id="ST8-07.png">Wingdramon/ST8-07</name><set>ST8</set></card>
+		<card><name id="ST8-07.png">Wingdramon/ST8-07</name><set>ST8</set></card>
+		<card><name id="ST8-07.png">Wingdramon/ST8-07</name><set>ST8</set></card>
+		<card><name id="ST8-07.png">Wingdramon/ST8-07</name><set>ST8</set></card>
+		<card><name id="ST8-09.png">Slayerdramon/ST8-09</name><set>ST8</set></card>
+		<card><name id="ST8-09.png">Slayerdramon/ST8-09</name><set>ST8</set></card>
+		<card><name id="ST8-09.png">Slayerdramon/ST8-09</name><set>ST8</set></card>
+		<card><name id="ST8-09.png">Slayerdramon/ST8-09</name><set>ST8</set></card>
+		<card><name id="ST8-10.png">UlforceVeedramon/ST8-10</name><set>ST8</set></card>
+		<card><name id="ST8-10.png">UlforceVeedramon/ST8-10</name><set>ST8</set></card>
+		<card><name id="BT1-028_P1.png">Elecmon/BT1-028_P1</name><set>BT1</set></card>
+		<card><name id="BT1-028_P1.png">Elecmon/BT1-028_P1</name><set>BT1</set></card>
+		<card><name id="BT1-028_P1.png">Elecmon/BT1-028_P1</name><set>BT1</set></card>
+		<card><name id="BT1-028_P1.png">Elecmon/BT1-028_P1</name><set>BT1</set></card>
+		<card><name id="BT1-037_P1.png">Gorillamon/BT1-037_P1</name><set>BT1</set></card>
+		<card><name id="BT1-037_P1.png">Gorillamon/BT1-037_P1</name><set>BT1</set></card>
+		<card><name id="BT1-037_P1.png">Gorillamon/BT1-037_P1</name><set>BT1</set></card>
+		<card><name id="BT1-037_P1.png">Gorillamon/BT1-037_P1</name><set>BT1</set></card>
+		<card><name id="BT1-038_P2.png">Monzaemon/BT1-038_P2</name><set>BT1</set></card>
+		<card><name id="BT1-038_P2.png">Monzaemon/BT1-038_P2</name><set>BT1</set></card>
+		<card><name id="ST2-13_P2.png">Hammer Spark/ST2-13_P2</name><set>ST2</set></card>
+		<card><name id="ST2-13_P2.png">Hammer Spark/ST2-13_P2</name><set>ST2</set></card>
+	</superzone>
+	<superzone name="Digi-Egg Deck">
+		<card><name id="ST8-01.png">DemiVeemon/ST8-01</name><set>ST8</set></card>
+		<card><name id="ST8-01.png">DemiVeemon/ST8-01</name><set>ST8</set></card>
+		<card><name id="ST8-01.png">DemiVeemon/ST8-01</name><set>ST8</set></card>
+		<card><name id="ST8-01.png">DemiVeemon/ST8-01</name><set>ST8</set></card>
+	</superzone>
+</deck>
